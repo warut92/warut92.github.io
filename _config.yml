@@ -1,5 +1,5 @@
 name: test page
 
 header_pages:
-  - rumerica/index.md
+  - index.md
   - about.md
