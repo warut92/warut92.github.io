@@ -16,4 +16,4 @@
 </details>
 
 
-<center>[Mia retejo kun fotoj en Esperanto](https://eo.warut.net)</center)
+<center>[Mia retejo kun fotoj en Esperanto](https://eo.warut.net)</center>
