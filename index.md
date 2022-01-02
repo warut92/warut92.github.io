@@ -2,6 +2,8 @@
 
 ยินดีต้อนรับสู่เว็บไซต์[นายวรุฒ](./me.md) > [Esperanta versio](index-eo.md)
 
+![me](./img/me.png)
+
 - [ดนตรีไทย](https://music.warut.net/)
 - [ภาษาเอสเปรันโต](./eo)
 - [ลินุกซ์](./linukso)
