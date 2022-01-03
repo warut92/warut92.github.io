@@ -2,7 +2,9 @@
 
 Bonvenon al la retejo de [Warut]() > [taja versio](index.md)
 
-- [tajlanda muziko](https://music.warut.net/) (En la tajlanda lingvo)
+![me](./img/me.png)
+
+- [Tajlanda muziko](./music) (En la tajlanda lingvo)
 - [Esperanto](./eo)
 - [Linukso](./linukso)
 - [kaj aliaj](./alia.md)

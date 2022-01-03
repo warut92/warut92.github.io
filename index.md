@@ -4,7 +4,7 @@
 
 ![me](./img/me.png)
 
-- [ดนตรีไทย](https://music.warut.net/)
+- [ดนตรีไทย](./music)
 - [ภาษาเอสเปรันโต](./eo)
 - [ลินุกซ์](./linukso)
 - [และอื่น ๆ](./alia.md)
