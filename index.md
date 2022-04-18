@@ -2,7 +2,8 @@
 
 ยินดีต้อนรับสู่เว็บไซต์[นายวรุฒ](./me.md) > [Esperanta versio](index-eo.md)
 
-![me](./img/me.png)
+<img src="./img/me.png" alt="me" width="100"/>
+<!-- ![me](./img/me.png) -->
 
 - [ดนตรีไทย](./music)
 - [ภาษาเอสเปรันโต](./eo)

@@ -1,3 +1,3 @@
 # และอื่น ๆ
 
-ยังไม่มี 555 
+- [หัดเขียน JavaScript](https://codepen.io/your-work/)

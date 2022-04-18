@@ -2,7 +2,8 @@
 
 Bonvenon al la retejo de [Warut]() > [taja versio](index.md)
 
-![me](./img/me.png)
+<img src="./img/me.png" alt="me" width="100"/>
+<!-- ![me](./img/me.png) -->
 
 - [Tajlanda muziko](./music) (En la tajlanda lingvo)
 - [Esperanto](./eo)
