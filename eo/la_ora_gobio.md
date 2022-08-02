@@ -57,7 +57,7 @@ Poste, la asketo pensis, ke eble Ueai sentas sin sola. Li faris kelkajn bildojn 
 
 Ĝis Lob iĝis 7-jaraĝa. Li demandis pri sia patro. Ueai ĉion rakontis al li pri la reĝo.
 
-Lob petis al la saketo por iri kaj serĉi la reĝon. Ueai faris rondan floraĵon porti sur la kolo de Lob, por ke kiam la reĝo vidas, li remomros pri Ueai.
+Lob petis al la saketo por iri kaj serĉi la reĝon. Ueai faris rondan floraĵon porti sur la kolo de Lob, por ke kiam la reĝo vidas, li rememoros pri Ueai.
 
 Lob iris al la urbo de la reĝo. Li demandis pri la arĝent-ora bodiarbo al urbanoj. La urbanoj opiniis, ke tio  estas ne-kutima afero kaj la ronda floraĵo estis ege bela. Tiu ĉi afero estis tre fama, eĉ la reĝo sciiĝis pri tio. Li pensis, ke eble Ueai sendis tiun infanon al la urbo. La reĝo venigis Lob al la palaco. Kiam li vidis la rondan floraĵon, li eksciis, ke tiu infano estis sendita de Ueai. Li timis la sorĉon de Ai. li planis viziti la ĝangalon, kie Ueai vivis.
 
