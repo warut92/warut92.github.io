@@ -1,14 +1,14 @@
-# เว็บไซต์นายวรุฒ
+# Retejo de Warut
 
-ยินดีต้อนรับสู่เว็บไซต์[นายวรุฒ](./me.md) > [Esperanta versio](index-eo.md)
+Bonvenon al la retejo de [Warut]() > [taja versio](index_th.md)
 
 <img src="./img/me.png" alt="me" width="100"/>
 <!-- ![me](./img/me.png) -->
 
-- [ดนตรีไทย](./music)
-- [ภาษาเอสเปรันโต](./eo)
-- [ลินุกซ์](./linukso)
-- [และอื่น ๆ](./alia.md)
+- [Tajlanda muziko](./music) (En la tajlanda lingvo)
+- [Esperanto](./eo)
+- [Linukso](./linukso)
+- [kaj aliaj](./alia.md)
 
 ---
-สะดวก เรียบง่าย [Markdown](https://www.markdownguide.org/)
+Simpla, Oportuna [Markdown](https://www.markdownguide.org/)

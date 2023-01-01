@@ -7,3 +7,7 @@
 - [เกมสุ่มบวกเลข](./learn_learn/simple_math_game.html)
 - [เกมสุ่มบวกเลข](./learn_learn/rule_of_three.html)
 - [หัดเขียน JavaScript](https://codepen.io/your-work/)
+
+
+---
+Simpla, Oportuna [Markdown](https://www.markdownguide.org/)

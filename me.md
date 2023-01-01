@@ -1,22 +1,39 @@
-# นายวรุฒ
+# Mi, Warut
 
-<details>
-  <summary>เรียนจบทางดนตรีไทย</summary>
-  <p>เอกซออู้ ชอบสีซอด้วง ออกงานเป่าขลุ่ย</p>
-</details>
+## Studo
+Tajlanda tradicia muziko.
 
-<details>
-  <summary>เอสเปรันโต</summary>
-  <p>งานอดิเรก</p>
-  <p>ภาษาประดิษฐ์ที่ไม่ได้มีกฏแค่ 16 ข้อ</p>
-  <p>แต่ก็ง่ายอยู่นะ</p>
-  <p>และคนก็ไม่ค่อยรู้จัก 555</p>
-</details>
+La universitato Srinakharinwirot, Bangkoko.
 
-<details>
-  <summary>Code</summary>
-  <p>สนใจนะ</p>
-  <p>แต่ก็ยากมั่ก ๆ</p>
-</details>
-<br>
+Finstudo: 2018.
+
+## Esperanto
+Hobio
+
+Eklernis en 2014 .
+
+La lingvo ne estas kun nur 16 reguloj.
+
+Tamen facila.
+
+kaj... malmultaj homoj gxin konas.
+
+Mi sxatas x-sistemon.
+
 [Mia retejo kun fotoj en Esperanto](https://eo.warut.net/)
+
+## Vivo
+Vivas nuntempe en Rayong.
+
+Laboras kiel instruisto en mezlernejo. Gelernantoj 13-18.
+## Kodo
+alia hobio.
+
+JavaScript.
+
+Mia [GitHub](https://github.com/warut92)
+
+
+
+---
+Simpla, Oportuna [Markdown](https://www.markdownguide.org/)
