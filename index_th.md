@@ -4,7 +4,7 @@
 
 <img src="./img/me.png" alt="me" width="100"/>
 <!-- ![me](./img/me.png) -->
-
+- [เกี่ยวกับผม](.me-th)
 - [ดนตรีไทย](./music)
 - [ภาษาเอสเปรันโต](./eo)
 - [ลินุกซ์](./linukso)

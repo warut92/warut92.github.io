@@ -1,5 +1,6 @@
 # Mi, Warut
 <img src="./img/me.png" alt="me" width="100"/>
+
 ## Studo
 Tajlanda tradicia muziko.
 
