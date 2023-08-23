@@ -7,6 +7,7 @@ Bonvenon al la retejo de  > [taja versio](index_th.md)
 
 - [Pri mi](me.md)
 - [Esperanto](./eo)
+- [Mia komputilo](./komputilo.md)
 - [Linukso](./linukso)
 
 
