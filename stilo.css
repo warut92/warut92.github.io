@@ -1,5 +1,9 @@
-* {
+body {
     font-family: "Lucida Console", "Courier New", monospace;
     color: white;
     background-color: #151615;   
+}
+
+img[src$='#img-small'] { 
+    width: 150px;
 }

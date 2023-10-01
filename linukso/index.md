@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="stilo.css">  
+<link rel="stylesheet" href="https://warut92.github.io/stilo.css">  
 
 # informoj pri linukso kolektitaj de mi.
 

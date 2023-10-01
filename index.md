@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="stilo.css">  
 
-# Retejo de Warut
+# 💻Retejo de Warut
 
 Bonvenon al la retejo de  > [taja versio](index_th.md)
 

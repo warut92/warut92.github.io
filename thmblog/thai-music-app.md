@@ -1,16 +1,20 @@
-<link rel="stylesheet" href="stilo.css">  
+<link rel="stylesheet" href="https://warut92.github.io/stilo.css">  
 
+# รวมบทความเกี่ยวกับดนตรีไทย
 
-## ในหน้าเว็บนี้จะเป็นการรวบรวมลิงก์เว็บที่ได้นำเสนอโปรแกรมที่เกี่ยวข้องกับดนตรีไทย
+ในหน้าเว็บนี้จะเป็นการรวบรวมลิงก์เว็บที่ได้นำเสนอโปรแกรมที่เกี่ยวข้องกับดนตรีไทย
 
-* โน้ตดนตรีไทย
-        - [โปรแกรมโน้ตดนตรีไทยเดิม](https://www.angelfire.com/music/drsben/tnote2a.html) โดย Dr.Ben
-        - [แนวคิดใหม่ (ใหม่สำหรับผม) สำหรับโปรแกรมเกี่ยวกับดนตรีไทย](http://kt-linux.blogspot.com/2011/05/blog-post.html)
-        - [โปรแกรมช่วยเขียนโน้ตดนตรีไทยมงกุฏวดี (Mongkutvadee)](https://research.kmutnb.ac.th/pub/innovation/?cmd=view&id=13)
+* โน้ตดนตรีไทย <br>
+        - [โปรแกรมโน้ตดนตรีไทยเดิม](https://www.angelfire.com/music/drsben/tnote2a.html) โดย Dr.Ben <br>
+        - [แนวคิดใหม่ (ใหม่สำหรับผม) สำหรับโปรแกรมเกี่ยวกับดนตรีไทย](http://kt-linux.blogspot.com/2011/05/blog-post.html) <br>
+        - [โปรแกรมช่วยเขียนโน้ตดนตรีไทยมงกุฏวดี (Mongkutvadee)](https://research.kmutnb.ac.th/pub/innovation/?cmd=view&id=13) <br>
+        - [การแปลงโน้ตดนตรีไทยให้อยู่ในรูปโครงสร้างของโน้ตดนตรีสากลโดยอาศัยมิวสิคเอ็กซ์เอ็มแอล็](http://icsec2016.mju.ac.th/upload/paper_th/T1-2D.3.pdf)
+
 
 
 > น่าจะ 10 กว่าปีที่แล้วเคยโหลดโปรแกรมเล่นเสียงเครื่องดนตรีไทย ถ้าจำไม่ผิดโปรแกรมนั้นชื่อว่า "สารถี" ตอนนี้หาลิงก์ไม่เจอ
 
 
-* เครื่องดนตรีไทย
+* เครื่องดนตรีไทย <br>
+        - ยังไม่มี
 
