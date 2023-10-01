@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="stilo.css">  
+
 # informoj pri linukso kolektitaj de mi.
 
 - [คู่มือการใช้ระบบปฏิบัติการลินุกซ์ฉบับคนทั่วไป](https://warut92.github.io/mylinuxman) _(รวบรวมเอง)_

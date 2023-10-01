@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="stilo.css">  
+
+
 # Esperanto
 - ภาษาเอสเปรันโตคือ?
 - Unua Libro [(ภาษาไทย)](./unualibro)

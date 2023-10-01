@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="stilo.css">  
+
+
 # และอื่น ๆ
 
 ## โครงการ JavaScript

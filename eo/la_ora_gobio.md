@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="stilo.css">  
+
 # La ora gobio.
 
 Iam estis viro, kies profesio estis fiŝkaptiso. Li nomiĝis Sethi. Li havis 2 edzinojn. La unua nomiĝis Khanitha, kaj la dua  Khanithi.

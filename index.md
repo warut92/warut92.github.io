@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="stilo.css">  
+
 # Retejo de Warut
 
 Bonvenon al la retejo de  > [taja versio](index_th.md)
@@ -9,7 +11,6 @@ Bonvenon al la retejo de  > [taja versio](index_th.md)
 - [Esperanto](./eo)
 - [Mia komputilo](./komputilo.md)
 - [Linukso](./linukso)
-
 
 ---
 Simpla, Oportuna [Markdown](https://www.markdownguide.org/)

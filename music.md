@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="stilo.css">  
+
 # ดนตรีไทย
 
 ###### โปรแกรม

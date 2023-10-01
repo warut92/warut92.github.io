@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="stilo.css">  
+
+
 # Komputilo
 
 Jen estas paĝo pri komputeraj aferoj de mi.
@@ -6,6 +9,8 @@ Jen estas paĝo pri komputeraj aferoj de mi.
 
 - Mia unua komputilo estis persona komputilo aĉetita de mia pli aĝa fratino (ĉ. 2009-2010). Nun mi ne plu povas memori, kia cxefprocesoro estis. Kaj eble la operaciumo estis Windows Vista. Nuntempe ĝi ne plu aktivas. Mi jam forvendis ĝin. Mi nun ne povas retrovi la foton de ĝi.
 - Temas pri mia nuna persona komputilo, kiu nun estas en la hejmo. Mi aĉetis malmultekostan komputilon, kaj mi en ĝin instalis la operaciumon Xubuntu.
+
+> mi nun serĉas foton de mia komputilo, se mi trovis ĝin mi aperigos ĝin ĉi tie
 
 ## Miaj tekokomputiloj
 
