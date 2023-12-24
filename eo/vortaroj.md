@@ -1,4 +1,5 @@
-<link rel="stylesheet" href="stilo.css">
+<link rel="stylesheet" href="https://warut92.github.io/stilo.css">
+
 
 # Jen la listo de Esperantaj vortaroj en multaj lingvoj:
 
