@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://warut92.github.io/stilo.css"> 
+<link rel="stylesheet" href="https://warut92.github.io/stilo.css">
 
 
 # Esperanto
@@ -9,4 +9,9 @@ Jen estas miaj verkoj:
 - Esperanto-Taja Vortareto (2017, plibonigita 2018)  [PDF](https://drive.google.com/file/d/1SiDFOS53_VungmPqvyz9V4F8K9iEXFCe/view)
 - Esperanto-rakonteto "Bona restoracio, sed multekosta" kun gramatika klarigo kaj vortolisto (2018)  [PDF](https://drive.google.com/file/d/1GAn7fXh1AV5p8M7RT_SsfZCSYbTi-KUS/view)
 - Unua Libro por Siamanoj (2021-2023) [Markdown](./unualibro)
-- [Esperanto - Taja Vortaro Reta พจนานุกรมเอสเปรันโต-ไทย](https://vortaro.warut.net) 
+- [Esperanto - Taja Vortaro Reta พจนานุกรมเอสเปรันโต-ไทย](https://vortaro.warut.net)
+
+
+***
+
+Mi kolektis ligilojn de Esperantaj vortaroj [ĉi tie](./vortaroj.md)
