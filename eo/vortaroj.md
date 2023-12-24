@@ -49,7 +49,7 @@ http://vastalto.com/pejv/i/  (สำหรับหน้าจอมือถ�
 http://esperanto.mond.jp/ (อังกฤษ, ญี่ปุ่น)
 http://www.burgiona.com/vorto/vorto.html (สำหรับหน้าจอมือถือ)
 
-La korea-ภาษาเกาหลี https://vortaro.esperanto.or.kr
+La korea-ภาษาเกาหลี http://vortaro.esperanto.or.kr/ex/
 
 La nederlanda-ภาษาดัตช์ (เนเธอร์แลนด์)
 www.vortaro.nl
