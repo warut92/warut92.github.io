@@ -1,16 +1,14 @@
-<link rel="stylesheet" href="stilo.css">  
+<link rel="stylesheet" href="stilo.css">
 
-# 💻Retejo de Warut
+# 🖧 Retejo de Warut
 
 Bonvenon al la retejo de  > [taja versio](index_th.md)
 
 <img src="./img/me.png" alt="me" width="100"/>
 <!-- ![me](./img/me.png) -->
 
-- [Pri mi](me.md)
+- [Pri mi](mi.md)
 - [Esperanto](./eo)
-- [Mia komputilo](./komputilo.md)
-- [Linukso](./linukso)
-
+- [Blogoj](./blogoj)
 ---
 Simpla, Oportuna [Markdown](https://www.markdownguide.org/)

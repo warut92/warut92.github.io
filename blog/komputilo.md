@@ -1,9 +1,9 @@
-<link rel="stylesheet" href="stilo.css">  
+<link rel="stylesheet" href="stilo.css">
 
 
-# 💻Komputilo
+# 🖮 Komputilo
 
-Jen estas paĝo pri komputeraj aferoj de mi.
+Jen estas paĝo pri komputilaj aferoj de mi.
 
 ## Mia komputilo
 

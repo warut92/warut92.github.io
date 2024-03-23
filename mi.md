@@ -1,7 +1,7 @@
-<link rel="stylesheet" href="stilo.css">  
+<link rel="stylesheet" href="stilo.css">
 
 
-# 👋Saluton de mi!
+# 🗐 Saluton de mi!
 <img src="./img/me.png" alt="me" width="100"/>
 
 ## Naskiĝo
@@ -14,27 +14,20 @@ pri ***Tajlanda tradicia muziko.*** <br>
 ĉe La universitato Srinakharinwirot, Bangkoko.
 
 ## Laboro
-Vivas nuntempe en Rayong. <br>
+2021
+Vivas nuntempe en Rayong. Proksime de marbordo<br>
 Laboras kiel instruisto en mezlernejo. <br>
 Mi instruas al gelernantoj ĉ. 13-18 jaraĝaj.
 
 ## Esperanto
-Hobio
-
-Eklernis en 2014 . <br>
-La lingvo ne estas kun nur 16 reguloj. <br>
-Tamen facila por mi. <br>
-kaj... malmultaj samlandanoj ĝin konas. <br>
-
-kaj mi kompilis vortareton Esperanto-Taja, tradukis lernolibron [laŭ la Zagreba Metodo.](https://eo.wikipedia.org/wiki/Zagreba_metodo)
+2014
+Eklernis. <br>
 
 [Mia retejo pri Esperanto-Vivo kaj miaj tradukaĵoj](https://eo.warut.net/)
 
 ## Programado
-Alia hobio.
-
+2022
 Nun mi lernas JavaScript. <br>
-Mi iam lernis Python kaj C, sed mi plej ŝatas JS.
 
 Jen estas mia [GitHub](https://github.com/warut92?tab=repositories)
 
