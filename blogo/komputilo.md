@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="://warut92.github.io/stilo.css">
+<link rel="stylesheet" href="https://warut92.github.io/stilo.css"> 
 
 
 # 🖮 Komputilo

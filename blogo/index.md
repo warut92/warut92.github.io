@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="://warut92.github.io/stilo.css">
+<link rel="stylesheet" href="https://warut92.github.io/stilo.css">
 
 # 🖧 Blogejo de Warut
 
@@ -11,5 +11,6 @@ Bonvenon al la mia blogejo. Jen estas miaj artikoloj.
 - [โปรแกรมหัดเขียน](mycodes.md) {21-12-27}
 - [รวบรวมแหล่งข้อมูลเกี่ยวกับลินุกซ์](linux.md) {21-12-29}
 - [แอปพลเคชันดนตรีไทย](thai-music-app.md) {23-11-5}
+- 
 ---
 Simpla, Oportuna [Markdown](https://www.markdownguide.org/)
