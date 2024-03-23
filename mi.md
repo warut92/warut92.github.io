@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="stilo.css">
 
 
-# 🗐 Saluton de mi!
+# 📄 Saluton de mi!
 <img src="./img/me.png" alt="me" width="100"/>
 
 ## Naskiĝo
