@@ -10,5 +10,6 @@ Bonvenon al la retejo de  > [taja versio](index_th.md)
 - [Pri mi](mi.md)
 - [Esperanto](./eo)
 - [Blogoj](./blogoj)
+
 ---
 Simpla, Oportuna [Markdown](https://www.markdownguide.org/)
