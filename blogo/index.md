@@ -4,6 +4,7 @@
 
 Bonvenon al la mia blogejo. Jen estas miaj artikoloj.
 - [Miaj komputiloj](231105-komputilo.md) {23-11-5}
+- [Miaj videoludoj](240616-videoludoj.md) {24-06-16}
 
 
 ###### ภาษาไทย
