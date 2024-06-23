@@ -29,7 +29,7 @@ Jen estas la listo de videoludoj, kiujn mi ludis, kiam mi estis knabo. (Laŭ mia
 12. Pacman
 13. Super mario bros.
 14. Road Fighter
-15. Ikki
+15. Ikki (ชาวนาขว้างเคียว)
 16. Ninja Hattori
 17. Paperboy
 18. Teenage Mutant Ninja Turtles II
