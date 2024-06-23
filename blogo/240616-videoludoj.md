@@ -37,7 +37,8 @@ Jen estas la listo de videoludoj, kiujn mi ludis, kiam mi estis knabo. (Laŭ mia
 20. Front Line
 21. Galaxian
 22. Aladdin 3
-23. Antarctic Adventure (けっきょく南極大冒険, Kekkyoku Nankyoku Daibōken, lit. "After all Antarctic Great Adventure") 1985
+23. Antarctic Adventure (Kekkyoku Nankyoku Daibōken) 1985
+24. Lode Runner (วิ่งเก็บทอง)
 
 Novaj videoludoj, kiujn mi neniam ludis antaŭe.
 
