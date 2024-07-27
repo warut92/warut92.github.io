@@ -4,14 +4,18 @@
 
 Bonvenon al la mia blogejo. Jen estas miaj artikoloj.
 
-- [ทำไมผมถึงมาเขียนโปรแกรมได้](211227-mycodes.md) - 211227
-- [ข้อมูลเกี่ยวกับลินุกซ์ที่ข้าพเจ้าได้รวบรวมเอาไว้](211229-linux.md) - 211229
-- [Miaj komputiloj](231105-komputilo.md) - 231105
-- [รวมบทความเกี่ยวกับแอปดนตรีไทย](231105-thai-music-app.md) - 231105
-- [Miaj materialoj por lerni Esperanto.](240323-eklernado.md) - 240323
-- [แนะนำภาษาเอสเปรันโตโดยนายวรุฒ สำหรับคนทั่วไป](240325-enkonEsp.md) - 240325
-- [Verkoj de Zamenhof](240325-verkoj_de_Zam.md) - 240325
-- [Pripensado pri donado.](240326-donado.md) - 240326
-- [Miaj videoludoj (เกมในวัยเด็ก)](240616-videoludoj.md) - 240616
-- [Ĉu ni devas timi la morton?](240722-morto.md) - 240722
-- [Mia blogo](240725-mia-blogo.md) - 240725
+## Esperanto
+
+- [Miaj komputiloj](231105-komputilo.md) - [231105]
+- [Miaj materialoj por lerni Esperanto.](240323-eklernado.md) - [240323]
+- [Verkoj de Zamenhof](240325-verkoj_de_Zam.md) - [240325]
+- [Pripensado pri donado.](240326-donado.md) - [240326]
+- [Miaj videoludoj](240616-videoludoj.md) - [240616]
+- [Ĉu ni devas timi la morton?](240722-morto.md) - [240722]
+- [Kiel blogo?](240725-mia-blogo.md) - [240725]
+## ภาษาไทย
+
+- [ทำไมผมถึงมาเขียนโปรแกรมได้](211227-mycodes.md) - [211227]
+- [ข้อมูลเกี่ยวกับลินุกซ์ที่ข้าพเจ้าได้รวบรวมเอาไว้](211229-linux.md) - [211229]
+- [รวมบทความเกี่ยวกับแอปดนตรีไทย](231105-thai-music-app.md) - [231105]
+- [แนะนำภาษาเอสเปรันโตโดยนายวรุฒ สำหรับคนทั่วไป](240325-enkonEsp.md) - [240325]
