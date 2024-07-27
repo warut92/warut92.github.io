@@ -11,6 +11,7 @@ Bonvenon al la mia blogejo. Jen estas miaj artikoloj.
 - [Verkoj de Zamenhof](240325-verkoj_de_Zam.md) - [240325]
 - [Pripensado pri donado.](240326-donado.md) - [240326]
 - [Miaj videoludoj](240616-videoludoj.md) - [240616]
+- [Cxu gxi estas la vero?](240707-cxu-gxi-estas-la-vero.md) - [240707]
 - [Ĉu ni devas timi la morton?](240722-morto.md) - [240722]
 - [Kiel blogo?](240725-mia-blogo.md) - [240725]
 ## ภาษาไทย
