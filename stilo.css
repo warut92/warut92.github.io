@@ -1,9 +1,15 @@
 body, * {
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: Fira Code,Monaco,Consolas,Ubuntu Mono,monospace;
     color: white;
-    background-color: #151615;
+    background-color: rgb(34, 33, 41);
+}
+
+h1, h2 {
+    color: #23B0FF;
 }
 
 img[src$='#img-small'] {
     width: 150px;
+    border-style: solid;
+    border-color:  #23B0FF;
 }
