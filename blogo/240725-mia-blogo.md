@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://warut92.github.io/stilo.css">
+<link rel="stylesheet" href="../stilo.css">
 
 # Kiel blogo?
 Lasttempe mi ne sxatas uzi sociajn retojn, t.e. Facebook kaj Instagram. Por tio ke mi tro multe uzis precipe dum semajnfinoj plurhorojn, kaj fine mi faris nenion. 

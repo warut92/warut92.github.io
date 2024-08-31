@@ -14,4 +14,4 @@
 - การเขียนโปรแกรมด้วยภาษา JavaScript
 
 ---
-สะดวก เรียบง่าย [Markdown](https://www.markdownguide.org/)
+

@@ -1,12 +1,13 @@
 <link rel="stylesheet" href="stilo.css">
 
 
-# 📄 Saluton de mi!
+# 📄 Saluton!
 <img src="./img/me.png" alt="me" width="100"/>
 
 ## Naskiĝo
 1992 <br>
-en la plej malgranda provinco.
+en la plej malgranda provinco en Tajlando.
+ĉe mia hejmo ĉirkaŭas kokosabroj kaj rizkampoj.
 
 ## Studo
 2018  <br>
@@ -22,17 +23,18 @@ Mi instruas al gelernantoj ĉ. 13-18 jaraĝaj.
 
 ## Esperanto
 2014 <br>
-Eklernis. <br>
+Eklernis unuafoje per la lernolibro de Stano Marcek ***Esperanto per rekta metodo*** kaj poste per lernu.net (malnova versio) <br>
 
 [Mia retejo pri Esperanto-Vivo kaj miaj tradukaĵoj](https://eo.warut.net/)
 
 ## Programado
 2021 <br>
 Nun mi lernas JavaScript. <br>
+Mi konas iom pri Python, sed mi amas JavaScript!
 
-Jen estas mia [GitHub](https://github.com/warut92?tab=repositories)
+Jen estas mia [GitHub-repoj](https://github.com/warut92?tab=repositories)
 
-> Kaj mi ŝatas eme uzi Markdown por tio ke ĝi estas simple kaj oportuna!
+> Kaj mi ŝatas eme uzi Markdown por tio, ke ĝi estas simpla, facile legebla kaj oportuna!
 
 ---
-Simpla, Oportuna [Markdown](https://www.markdownguide.org/)
+

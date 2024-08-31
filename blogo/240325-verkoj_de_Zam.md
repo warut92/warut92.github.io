@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="../stilo.css">
 # Verkoj de Zamenhof
 Unua Libro (Esperantlingvaj partoj) 1887  Z
 

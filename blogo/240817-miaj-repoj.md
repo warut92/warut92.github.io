@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://warut92.github.io/stilo.css">
+<link rel="stylesheet" href="../stilo.css">
 
 # รวบรวมโปรแกรมของข้าพเจ้า
 หน้าเว็บนี้เป็นการรวบรวมโปรแกรมหรือการแปลหรือการรวบรวมข้อมูลของกระผมในรูปแบบของ Open Source โดยโค้ดทั้งหมดสามารถดูได้ที่ Github

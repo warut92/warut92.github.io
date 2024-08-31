@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://warut92.github.io/stilo.css">
+<link rel="stylesheet" href="../stilo.css">
 
 # Miaj videoludoj
 Ekde la teknologio disvolviĝis, la geknabo alkutimiĝis ludi kun ili. Unu el ili kompreneble estas videoludoj. Je mia knab-aĝo mi bone memoras pri mia patro, kiu ŝatis frekventi al dumanaĵ-vendejo, li iam aĉetis por mi sen mia peto aŭ deziro la videoludilo kun ruĝa kaj ora koloroj, tio estis videoludilo FAMICOM de tiam mi ekkonis la teknologion de videoludoj kaj krekis kun ĝi, kiam la unua aparato rompiĝis (Mi ne bone meomoras, kial ĝi rompiĝis) post iom da tempo (mi ne bone memoras, kiom da monatoj aŭ jaroj), mia patro denove aĉeti ĝin, la novan, tamen estis la dumanaĵo.

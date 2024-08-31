@@ -12,4 +12,4 @@ Bonvenon al la retejo de  > [taja versio](index_th.md)
 - [Mia blogo](./blogo)
 
 ---
-Simpla, Oportuna [Markdown](https://www.markdownguide.org/)
+
