@@ -53,10 +53,10 @@ La korea-ภาษาเกาหลี
 [http://vortaro.esperanto.or.kr/ex/](http://vortaro.esperanto.or.kr/ex/)
 
 La nederlanda-ภาษาดัตช์ (เนเธอร์แลนด์)
-[www.vortaro.nl](www.vortaro.nl)
+[http://www.vortaro.nl](www.vortaro.nl)
 
 La rusa-ภาษารัสเซีย
-[www.eoru.ru](www.eoru.ru)
+[http://www.eoru.ru](www.eoru.ru)
 
 La ukrania-ภาษายูเครน
 [http://www.ukrainio.org.ua/vortaro/vortoj.htm](www.ukrainio.org.ua/vortaro/vortoj.htm)<br>
