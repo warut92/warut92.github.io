@@ -18,29 +18,29 @@ Tuja Vortaro [https://www.tujavortaro.net/](https://www.tujavortaro.net/)
 
 La angla-ภาษาอังกฤษ<br>
 [http://dictionaryq.com/esperanto/](http://dictionaryq.com/esperanto/)<br>
-[www.denisowski.org/Esperanto/ESPDIC/espdic_readme.htm](www.denisowski.org/Esperanto/ESPDIC/espdic_readme.htm)
+[http://www.denisowski.org/Esperanto/ESPDIC/espdic_readme.htm](www.denisowski.org/Esperanto/ESPDIC/espdic_readme.htm)
 
 La ĉina-ภาษาจีน
 [http://kaifangcidian.com/eo/](http://kaifangcidian.com/eo/)
 
 La dana-ภาษาเดนมาร์ก
-[www.vortaro.dk](www.vortaro.dk)
+[http://www.vortaro.dk](www.vortaro.dk)
 
 La germana-ภาษาเยอรมัน
 
 [http://www.majkel.de/eo/](http://www.majkel.de/eo/)<br>
-[www.thschuetz.de/esperanto/vortaro.html](www.thschuetz.de/esperanto/vortaro.html)<br>
-[www.pauker.at/pauker/DE_DE/EO/wb/](www.pauker.at/pauker/DE_DE/EO/wb/)
+[http://www.thschuetz.de/esperanto/vortaro.html](www.thschuetz.de/esperanto/vortaro.html)<br>
+[http://www.pauker.at/pauker/DE_DE/EO/wb/](www.pauker.at/pauker/DE_DE/EO/wb/)
 
 La hispana-ภาษาสเปน
-[www.esperanto.es/hef/index.php/diccionario-esperanto](www.esperanto.es/hef/index.php/diccionario-esperanto)
+[http://www.esperanto.es/hef/index.php/diccionario-esperanto](www.esperanto.es/hef/index.php/diccionario-esperanto)
 
 La hungara-ภาษาฮังการี
-[www.eszperanto-szotar.hu](www.esperanto.es/hef/index.php/diccionario-esperanto)
+[http://www.eszperanto-szotar.hu](www.esperanto.es/hef/index.php/diccionario-esperanto)
 
 La itala-ภาษาอิตาลี
-[www.hvortaro.altervista.org](www.hvortaro.altervista.org)<br>
-[www.esperanto.it/dizionario/hvonline.php](www.esperanto.it/dizionario/hvonline.php)
+[http://www.hvortaro.altervista.org](www.hvortaro.altervista.org)<br>
+[http://www.esperanto.it/dizionario/hvonline.php](www.esperanto.it/dizionario/hvonline.php)
 
 La japana-ภาษาญี่ปุ่น
 [http://vastalto.com/pejv/](http://vastalto.com/pejv/)<br>
@@ -59,7 +59,7 @@ La rusa-ภาษารัสเซีย
 [www.eoru.ru](www.eoru.ru)
 
 La ukrania-ภาษายูเครน
-[www.ukrainio.org.ua/vortaro/vortoj.htm](www.ukrainio.org.ua/vortaro/vortoj.htm)<br>
+[http://www.ukrainio.org.ua/vortaro/vortoj.htm](www.ukrainio.org.ua/vortaro/vortoj.htm)<br>
 [http://vortaro.ukrainio.org.ua](http://vortaro.ukrainio.org.ua)
 
 La sveda-ภาษาสวีดิช
