@@ -1,8 +1,9 @@
 <link rel="stylesheet" href="./stilo.css">
 
-# Miaj ŝatokupoj
+# Mia hobiaro
+<img src="./img/me.png" alt="me" width="100"/>
 
-Jen estas mia listo de miaj aferoj, kiujn mi faradas dum mia libera tempo. Ili estas vere parto de la mia vivo.
+Jen estas mia listo de miaj aferoj, kiujn mi faradas dum mia libera tempo. Ili estas kompreneble parto de mia vivo.
 ## Esperanto
 - tradukaĵoj
 - vortaro
