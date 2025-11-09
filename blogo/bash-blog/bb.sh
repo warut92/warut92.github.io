@@ -22,9 +22,9 @@ global_variables() {
     # Blog title
     global_title="ดอกไม้ผลิบาน ใบไม้ร่วงโรย"
     # The typical subtitle for each blog
-    global_description="จะดีแค่ไหนถ้าเราสามารถถ่ายทอดความคิดออกมาให้คนอื่นได้รับรู้ได้"
+    global_description="เขียนเรื่อยเปื่อย..."
     # The public base URL for this blog
-    global_url="http://warut92.github.io/blogo/bash-blog/"
+    global_url="http://warut92.github.io/blogo/bash-blog"
 
     # Your name
     global_author="นายเพนกวิน"

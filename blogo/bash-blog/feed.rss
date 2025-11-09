@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>ดอกไม้ผลิบาน ใบไม้ร่วงโรย</title><link>http://warut92.github.io/blogo/bash-blog//index.html</link>
-<description>จะดีแค่ไหนถ้าเราสามารถถ่ายทอดความคิดออกมาให้คนอื่นได้รับรู้ได้</description><language>en</language>
-<lastBuildDate>Sun, 09 Nov 2025 09:07:00 +0700</lastBuildDate>
-<pubDate>Sun, 09 Nov 2025 09:07:00 +0700</pubDate>
+<description>เขียนเรื่อยเปื่อย...</description><language>en</language>
+<lastBuildDate>Sun, 09 Nov 2025 09:19:37 +0700</lastBuildDate>
+<pubDate>Sun, 09 Nov 2025 09:19:37 +0700</pubDate>
 <atom:link href="http://warut92.github.io/blogo/bash-blog//feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 ปรัญชาชีวิต
@@ -24,6 +24,7 @@
 
 
 
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bash-blog//15360.html</link>
 <guid>http://warut92.github.io/blogo/bash-blog//./15360.html</guid>
@@ -36,6 +37,7 @@
 <p>กระผมต่องการทดลองสร้างบล็อกจากไฟล์ bash</p>
 
 <p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a>, <a href='tag_การเขีน.html'>การเขีน</a></p>
+
 
 
 
