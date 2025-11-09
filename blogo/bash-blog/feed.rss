@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>ดอกไม้ผลิบาน ใบไม้ร่วงโรย</title><link>http://warut92.github.io/blogo/bash-blog//index.html</link>
+<channel><title>ดอกไม้ผลิบาน ใบไม้ร่วงโรย</title><link>http://warut92.github.io/blogo/bash-blog/index.html</link>
 <description>เขียนเรื่อยเปื่อย...</description><language>en</language>
-<lastBuildDate>Sun, 09 Nov 2025 09:19:37 +0700</lastBuildDate>
-<pubDate>Sun, 09 Nov 2025 09:19:37 +0700</pubDate>
-<atom:link href="http://warut92.github.io/blogo/bash-blog//feed.rss" rel="self" type="application/rss+xml" />
+<lastBuildDate>Sun, 09 Nov 2025 13:31:05 +0700</lastBuildDate>
+<pubDate>Sun, 09 Nov 2025 13:31:05 +0700</pubDate>
+<atom:link href="http://warut92.github.io/blogo/bash-blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+การติดตั้ง Markdown ใน bash blog
+</title><description><![CDATA[
+
+<p>ตอนแรกผมก็งง ว่าเวลา รันคำสั่งสำหรับการสร้างบล็อกทำไมไฟล์แก้ไขไม่เป็น .md แต่เป็น .html ซึ่งมันก็จะลำบากนิดหน่อยในการพิมพ์แท็ก (จริง ๆ ก็ไม่อยากมาก แต่ .md มันสะดวกกว่ามาก เพียงแค่พิมพ์ไปตรง ๆ เลย ถ้าไม่เน้นข้อความอะไร) พอไปอ่านไฟล์ bb.sh เห็นว่าต้องมี Markdowm.pl เราก็เลยไปค้นมาในเน็ต <a href="https://github.com/mackyle/markdown/blob/master/Markdown.pl"> mackyle/markdown</a> โหลดมาแล้วก็ใส่ในไดเรกทอรี จากนั้นตูม!! เรียบร้อย</p>
+
+<p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
+
+
+<!-- text end -->
+]]></description><link>http://warut92.github.io/blogo/bash-blog/18929.html</link>
+<guid>http://warut92.github.io/blogo/bash-blog/./18929.html</guid>
+<dc:creator>นายเพนกวิน</dc:creator>
+<pubDate>Sun, 09 Nov 2025 13:29:30 +0700</pubDate></item>
 <item><title>
 ปรัญชาชีวิต
 </title><description><![CDATA[
@@ -15,10 +29,17 @@
 ต่างจากหมา ต่างจากช้าง หรือหมาป่า ที่ต้องอยู่กันเป็นฝูง 
 มันอาศัยอย่างอิสระมาก
 
-ต่างกับคนที่ต้องดิ้นรนหาความหมายของชีวิต ว่าชีวิตนี้เกิดมาทำไม เพราะอะไร สุดท้ายเราต่างก็ต้องแสวงหาสิ่งที่
-ทำให้ชีวิตเรานั้นมีความหมาย</p>
+และเมื่อหันมาดูคนเรานั้นที่ต้องดิ้นรนหาความหมายของชีวิต ว่าชีวิตนี้เกิดมาทำไม เพราะอะไร สุดท้ายเราต่างก็ต้องแสวงหาสิ่งที่
+ทำให้ชีวิตเรานั้นมีความหมาย แต่แมวมันมีความสุขของมันตามธรรมชาติไม่ต้องไปดิ้นร้นอะไร</p>
 
-<p>Tags: <a href='tag_ปรัญชา.html'>ปรัญชา</a></p>
+<p>Tags: <a href='tag_คิดไปเรื่อย.html'>คิดไปเรื่อย</a></p>
+
+
+
+
+
+
+
 
 
 
@@ -26,17 +47,32 @@
 
 
 <!-- text end -->
-]]></description><link>http://warut92.github.io/blogo/bash-blog//15360.html</link>
-<guid>http://warut92.github.io/blogo/bash-blog//./15360.html</guid>
+]]></description><link>http://warut92.github.io/blogo/bash-blog/15360.html</link>
+<guid>http://warut92.github.io/blogo/bash-blog/./15360.html</guid>
 <dc:creator>นายเพนกวิน</dc:creator>
 <pubDate>Sun, 09 Nov 2025 08:23:52 +0700</pubDate></item>
 <item><title>
-กระผมต้องการทดลอง
+การทดลอง
 </title><description><![CDATA[
 
-<p>กระผมต่องการทดลองสร้างบล็อกจากไฟล์ bash</p>
+<p>กระผมต้องการทดลองสร้างบล็อกจากไฟล์ bash อันที่จริงผมรู้จักกับ bash blog มานานแล้ว น่าจะประมาณ 3-4 ปี ที่ผมเริ่มใช้ลินุกซ์ (เดียวผมจะมาเขียนว่าทำ
+ไม่ผมถึงมาใช้ลินุกซ์ได้) ซึ่งเป็นการใช้ไฟล์ bash สร้างบล็อก โดยมีฟังก์ชันที่น่าสนใจคือ การสร้างแท็กและหน้าสำหรับแท็กนั้น ๆ ที่จริงผมก็มีบล็อกที่สามารถสร้างแท็กได้
+ง่ายกว่าด้วย (ของ Google) แต่เราก็อยากจะสร้างอะไร ๆ ที่ท้าทายหน่อย และบล็อกนี้จะเป็นการเขียนเกี่ยวกับเรื่องสัพเพเหระ เรื่องทั้วไป ข้อคิดที่คิดได้ </p>
 
-<p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a>, <a href='tag_การเขีน.html'>การเขีน</a></p>
+<p>สิ่งที่ผมจะปรับแต่งในไฟล์ bash คือ
+1. เปลี่ยนรูปแบบวันที่เป็นแบบตัวเลข โดยเรียงจาก ปี เดือน วัน เพราะผมชอบแบบนี้
+2. แปลข้อความในแท็ก a ให้เป็นภาษาไทย
+3. ตกแต่งหน้าตารูปลักษณ์ ด้วย css ซึ่งกำลังทำไปแบบเรื่อย ๆ เพราะต้องค่อย ๆ ตกแต่ง
+</p>
+
+<p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a>, <a href='tag_การเขียน.html'>การเขียน</a></p>
+
+
+
+
+
+
+
 
 
 
@@ -49,8 +85,8 @@
 
 
 <!-- text end -->
-]]></description><link>http://warut92.github.io/blogo/bash-blog//14655.html</link>
-<guid>http://warut92.github.io/blogo/bash-blog//./14655.html</guid>
+]]></description><link>http://warut92.github.io/blogo/bash-blog/14655.html</link>
+<guid>http://warut92.github.io/blogo/bash-blog/./14655.html</guid>
 <dc:creator>นายเพนกวิน</dc:creator>
 <pubDate>Sun, 09 Nov 2025 07:55:08 +0700</pubDate></item>
 </channel></rss>

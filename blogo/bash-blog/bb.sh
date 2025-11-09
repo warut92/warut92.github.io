@@ -29,7 +29,7 @@ global_variables() {
     # Your name
     global_author="นายเพนกวิน"
     # You can use twitter or facebook or anything for global_author_url
-    global_author_url="http://twitter.com/example" 
+    global_author_url="" 
     # Your email
     global_email=""
 
@@ -104,7 +104,7 @@ global_variables() {
     body_begin_file_index=""
     # CSS files to include on every page, f.ex. css_include=('main.css' 'blog.css')
     # leave empty to use generated
-    css_include=()
+    css_include=('css/mystyle.css')
     # HTML files to exclude from index, f.ex. post_exclude=('imprint.html 'aboutme.html')
     html_exclude=()
 
@@ -116,7 +116,7 @@ global_variables() {
     # "View more posts" (used on bottom of index page as link to archive)
     template_archive="ดูโพสต์อื่น ๆ"
     # "All posts" (title of archive page)
-    template_archive_title="ดูโพสต์ทั้งหมด"
+    template_archive_title="โพสต์ทั้งหมด"
     # "All tags"
     template_tags_title="หัวข้อทั้งหมด"
     # "posts" (on "All tags" page, text at the end of each tag line, like "2. Music - 15 posts")
@@ -132,7 +132,7 @@ global_variables() {
     # "Subscribe" (used on bottom of index page, it is link to RSS feed)
     template_subscribe="Subscribe"
     # "Subscribe to this page..." (used as text for browser feed button that is embedded to html)
-    template_subscribe_browser_button="Subscribe to this page..."
+    template_subscribe_browser_button="Subscribe บล็อกนี้..."
     # "Tweet" (used as twitter text button for posting to twitter)
     template_twitter_button="Tweet"
     template_twitter_comment="&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;"

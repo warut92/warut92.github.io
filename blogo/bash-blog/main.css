@@ -1,5 +1,5 @@
 @import 'https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/TlwgTypist/TlwgTypist.css';
-body{font-family: 'Tlwg Typist', monospace;margin:0;padding:0;background-color:rgb(34, 33, 41);}
+body{font-family: 'Tlwg Typist', monospace;margin:0;padding:0;background-color:#DDD;}
         #divbodyholder{padding:5px;background-color:#DDD;width:100%;max-width:874px;margin:24px auto;}
         #divbody{border:solid 1px #ccc;background-color:#fff;padding:0px 48px 24px 48px;top:0;}
         .headerholder{background-color:#f9f9f9;border-top:solid 1px #ccc;border-left:solid 1px #ccc;border-right:solid 1px #ccc;}
