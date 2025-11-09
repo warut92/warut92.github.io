@@ -22,7 +22,7 @@ global_variables() {
     # Blog title
     global_title="ดอกไม้ผลิบาน ใบไม้ร่วงโรย"
     # The typical subtitle for each blog
-    global_description="เขียนไปเรื่อย ไปเรื่อย ๆ"
+    global_description="จะดีแค่ไหนถ้าเราสามารถถ่ายทอดความคิดออกมาให้คนอื่นได้รับรู้ได้"
     # The public base URL for this blog
     global_url="http://warut92.github.io/blogo/bash-blog/"
 
@@ -110,25 +110,25 @@ global_variables() {
 
     # Localization and i18n
     # "Comments?" (used in twitter link after every post)
-    template_comments="Comments?"
+    template_comments="ความคิดเห็น?"
     # "Read more..." (link under cut article on index page)
     template_read_more="อ่านเพิ่ม..."
     # "View more posts" (used on bottom of index page as link to archive)
     template_archive="ดูโพสต์อื่น ๆ"
     # "All posts" (title of archive page)
-    template_archive_title="All posts"
+    template_archive_title="ดูโพสต์ทั้งหมด"
     # "All tags"
-    template_tags_title="All tags"
+    template_tags_title="หัวข้อทั้งหมด"
     # "posts" (on "All tags" page, text at the end of each tag line, like "2. Music - 15 posts")
-    template_tags_posts="posts"
-    template_tags_posts_2_4="posts"  # Some slavic languages use a different plural form for 2-4 items
-    template_tags_posts_singular="post"
+    template_tags_posts="โพสต์"
+    template_tags_posts_2_4="โพสต์"  # Some slavic languages use a different plural form for 2-4 items
+    template_tags_posts_singular="โพสต์"
     # "Posts tagged" (text on a title of a page with index of one tag, like "My Blog - Posts tagged "Music"")
     template_tag_title="Posts tagged"
     # "Tags:" (beginning of line in HTML file with list of all tags for this article)
     template_tags_line_header="Tags:"
     # "Back to the index page" (used on archive page, it is link to blog index)
-    template_archive_index_page="Back to the index page"
+    template_archive_index_page="กลับไปหน้าแรก"
     # "Subscribe" (used on bottom of index page, it is link to RSS feed)
     template_subscribe="Subscribe"
     # "Subscribe to this page..." (used as text for browser feed button that is embedded to html)
