@@ -13,4 +13,4 @@ Bonvenon al la retejo! > [taja versio](index_th.md)
 - [Mia blogo](./blogo)
 
 ---
-*pensu facile, vivu pace!*
+*pensu simple, vivu pace!*
