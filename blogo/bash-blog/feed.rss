@@ -2,9 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>ดอกไม้ผลิบาน ใบไม้ร่วงโรย</title><link>http://warut92.github.io/blogo/bash-blog/index.html</link>
 <description>เขียนเรื่อยเปื่อย...</description><language>en</language>
-<lastBuildDate>Sun, 09 Nov 2025 14:36:56 +0700</lastBuildDate>
-<pubDate>Sun, 09 Nov 2025 14:36:56 +0700</pubDate>
+<lastBuildDate>Mon, 10 Nov 2025 22:45:44 +0700</lastBuildDate>
+<pubDate>Mon, 10 Nov 2025 22:45:44 +0700</pubDate>
 <atom:link href="http://warut92.github.io/blogo/bash-blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+ช่วงเวลา
+</title><description><![CDATA[
+
+<p>มันคือช่วงเวลาของชีวิต ความสุขใจในช่วงวัยต่าง ๆ นั้นมันก็แตกต่างกัน</p>
+
+<p>วัยเด็กก็อย่าง วัยรุ่นก็อย่าง วัยทำงานก็อย่าง</p>
+
+<p>ความคิดบางอย่าง ความยึดมั่นในบางอย่าง มันก็แค่สิ่งที่เกิดขึ้นในช่วงนั้น ๆ</p>
+
+<p>เห็นแล้ว ก็อธิบายไปก็อาจจะเปล่าประโยชน์ </p>
+
+<p>ต้องให้รู้ด้วยตัวเอง</p>
+
+<p>เท่านั้น</p>
+
+<p>Tags: <a href='tag_คิดไปเรื่อย.html'>คิดไปเรื่อย</a></p>
+<!-- text end -->
+]]></description><link>http://warut92.github.io/blogo/bash-blog/15367.html</link>
+<guid>http://warut92.github.io/blogo/bash-blog/./15367.html</guid>
+<dc:creator>นายเพนกวิน</dc:creator>
+<pubDate>Mon, 10 Nov 2025 22:42:44 +0700</pubDate></item>
 <item><title>
 สิ่งที่อยู่ตรงหน้า
 </title><description><![CDATA[
@@ -28,6 +50,8 @@
 <p>สุดท้ายได้เรียนรู้เรื่องการปล่อยวาง สิ่งที่มันเกิดแล้ว ย่อมดี และแต่ละคนก็มีเรื่องที่เป็นทุกข์ใจกันทั้งนั้น แต่จะมากจะน้อยก็แต่ต่างกันไป สุดท้ายจริง ๆ อยู่กับความเป็นธรรมชาติให้มากหรือให้อยู่ในสมดุลที่สุดก็แล้วกัน (บอกตัวเองจ้า)</p>
 
 <p>Tags: <a href='tag_คิดไปเรื่อย.html'>คิดไปเรื่อย</a></p>
+
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bash-blog/24271.html</link>
 <guid>http://warut92.github.io/blogo/bash-blog/./24271.html</guid>
@@ -40,6 +64,8 @@
 <p>ตอนแรกผมก็งง ว่าเวลา รันคำสั่งสำหรับการสร้างบล็อกทำไมไฟล์แก้ไขไม่เป็น .md แต่เป็น .html ซึ่งมันก็จะลำบากนิดหน่อยในการพิมพ์แท็ก (จริง ๆ ก็ไม่อยากมาก แต่ .md มันสะดวกกว่ามาก เพียงแค่พิมพ์ไปตรง ๆ เลย ถ้าไม่เน้นข้อความอะไร) พอไปอ่านไฟล์ bb.sh เห็นว่าต้องมี Markdowm.pl เราก็เลยไปค้นมาในเน็ต <a href="https://github.com/mackyle/markdown/blob/master/Markdown.pl"> mackyle/markdown</a> โหลดมาแล้วก็ใส่ในไดเรกทอรี จากนั้นตูม!! เรียบร้อย</p>
 
 <p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
+
+
 
 
 <!-- text end -->
@@ -75,6 +101,8 @@
 
 
 
+
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bash-blog/15360.html</link>
 <guid>http://warut92.github.io/blogo/bash-blog/./15360.html</guid>
@@ -95,6 +123,8 @@
 </p>
 
 <p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a>, <a href='tag_การเขียน.html'>การเขียน</a></p>
+
+
 
 
 

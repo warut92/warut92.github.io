@@ -590,12 +590,12 @@ write_entry() {
         [[ $fmt == html ]] && cat << EOF >> "$TMPFILE"
 <p>พิมพ์เนื้อหาในรูปแบบของ <b>html</b> เมื่อพิมพ์เรียบร้อยแล้ว บันทึกและออกจากโปรแกรม</p>
 
-<p>$template_tags_line_header ระบุแท็กที่นี่</p>
+<p>$template_tags_line_header ตัวอย่างแท็ก</p>
 EOF
         [[ $fmt == md ]] && cat << EOF >> "$TMPFILE"
 พิมพ์เนื้อหาในรูปแบบของ **Markdown** เมื่อพิมพ์เรียบร้อยแล้ว บันทึกและออกจากโปรแกรม
 
-$template_tags_line_header ระบุแท็กที่นี่
+$template_tags_line_header ตัวอย่างแท็ก
 EOF
     fi
     chmod 600 "$TMPFILE"
