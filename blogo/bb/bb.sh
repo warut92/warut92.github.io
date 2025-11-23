@@ -114,7 +114,7 @@ global_variables() {
     # "Read more..." (link under cut article on index page)
     template_read_more="อ่านเพิ่ม..."
     # "View more posts" (used on bottom of index page as link to archive)
-    template_archive="ดูโพสต์อื่น ๆ"
+    template_archive="ดูโพสต์ทั้งหมด"
     # "All posts" (title of archive page)
     template_archive_title="โพสต์ทั้งหมด"
     # "All tags"
@@ -585,19 +585,17 @@ write_entry() {
         fi
     else
         TMPFILE=.entry-$RANDOM.$fmt
-        echo -e "Title on this line\n" >> "$TMPFILE"
+        echo -e "ชื่อเรื่อง\n" >> "$TMPFILE"
 
         [[ $fmt == html ]] && cat << EOF >> "$TMPFILE"
-<p>The rest of the text file is an <b>html</b> blog post. The process will continue as soon
-as you exit your editor.</p>
+<p>พิมพ์เนื้อหาในรูปแบบของ <b>html</b> เมื่อพิมพ์เรียบร้อยแล้ว บันทึกและออกจากโปรแกรม</p>
 
-<p>$template_tags_line_header keep-this-tag-format, tags-are-optional, example</p>
+<p>$template_tags_line_header ระบุแท็กที่นี่</p>
 EOF
         [[ $fmt == md ]] && cat << EOF >> "$TMPFILE"
-The rest of the text file is a **Markdown** blog post. The process will continue
-as soon as you exit your editor.
+พิมพ์เนื้อหาในรูปแบบของ **Markdown** เมื่อพิมพ์เรียบร้อยแล้ว บันทึกและออกจากโปรแกรม
 
-$template_tags_line_header keep-this-tag-format, tags-are-optional, beware-with-underscores-in-markdown, example
+$template_tags_line_header ระบุแท็กที่นี่
 EOF
     fi
     chmod 600 "$TMPFILE"
