@@ -130,9 +130,9 @@ global_variables() {
     # "Back to the index page" (used on archive page, it is link to blog index)
     template_archive_index_page="กลับไปหน้าแรก"
     # "Subscribe" (used on bottom of index page, it is link to RSS feed)
-    template_subscribe="Subscribe"
+    template_subscribe="ติดตามบล็อก"
     # "Subscribe to this page..." (used as text for browser feed button that is embedded to html)
-    template_subscribe_browser_button="Subscribe บล็อกนี้..."
+    template_subscribe_browser_button="ติดตามบล็อกนี้..."
     # "Tweet" (used as twitter text button for posting to twitter)
     template_twitter_button="Tweet"
     template_twitter_comment="&lt;Type your comment here but please leave the URL so that other people can follow the comments&gt;"
@@ -968,7 +968,7 @@ create_includes() {
         protected_mail=${global_email//@/&#64;}
         protected_mail=${protected_mail//./&#46;}
         echo "<div id=\"footer\">$global_license <a href=\"$global_author_url\">$global_author</a> &mdash; <a href=\"mailto:$protected_mail\">$protected_mail</a><br/>"
-        echo 'Generated with <a href="https://github.com/cfenollosa/bashblog">bashblog</a>, a single bash script to easily create blogs like this one</div>'
+        echo 'สร้างด้วย <a href="https://github.com/cfenollosa/bashblog">bashblog</a>; ไฟล์ <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">bash</a> 1 ไฟล์ใช้สร้างบล็อกทั้งหมดนี้</div>'
         } >> ".footer.html"
     fi
 }
