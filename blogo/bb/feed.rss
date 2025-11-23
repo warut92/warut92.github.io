@@ -2,9 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>ดอกไม้ผลิบาน ใบไม้ร่วงโรย</title><link>http://warut92.github.io/blogo/bash-blog/index.html</link>
 <description>เขียนเรื่อยเปื่อย...</description><language>en</language>
+<<<<<<< HEAD:blogo/bb/feed.rss
 <lastBuildDate>Sun, 23 Nov 2025 13:13:51 +0700</lastBuildDate>
 <pubDate>Sun, 23 Nov 2025 13:13:51 +0700</pubDate>
+=======
+<lastBuildDate>Mon, 10 Nov 2025 22:45:44 +0700</lastBuildDate>
+<pubDate>Mon, 10 Nov 2025 22:45:44 +0700</pubDate>
+>>>>>>> 8d271e39c2eb428edf5370f6e0c9db6c92573a86:blogo/bash-blog/feed.rss
 <atom:link href="http://warut92.github.io/blogo/bash-blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+ช่วงเวลา
+</title><description><![CDATA[
+
+<p>มันคือช่วงเวลาของชีวิต ความสุขใจในช่วงวัยต่าง ๆ นั้นมันก็แตกต่างกัน</p>
+
+<p>วัยเด็กก็อย่าง วัยรุ่นก็อย่าง วัยทำงานก็อย่าง</p>
+
+<p>ความคิดบางอย่าง ความยึดมั่นในบางอย่าง มันก็แค่สิ่งที่เกิดขึ้นในช่วงนั้น ๆ</p>
+
+<p>เห็นแล้ว ก็อธิบายไปก็อาจจะเปล่าประโยชน์ </p>
+
+<p>ต้องให้รู้ด้วยตัวเอง</p>
+
+<p>เท่านั้น</p>
+
+<p>Tags: <a href='tag_คิดไปเรื่อย.html'>คิดไปเรื่อย</a></p>
+<!-- text end -->
+]]></description><link>http://warut92.github.io/blogo/bash-blog/15367.html</link>
+<guid>http://warut92.github.io/blogo/bash-blog/./15367.html</guid>
+<dc:creator>นายเพนกวิน</dc:creator>
+<pubDate>Mon, 10 Nov 2025 22:42:44 +0700</pubDate></item>
 <item><title>
 สิ่งที่อยู่ตรงหน้า
 </title><description><![CDATA[
@@ -30,8 +57,11 @@
 <p>Tags: <a href='tag_คิดไปเรื่อย.html'>คิดไปเรื่อย</a></p>
 
 
+<<<<<<< HEAD:blogo/bb/feed.rss
 
 
+=======
+>>>>>>> 8d271e39c2eb428edf5370f6e0c9db6c92573a86:blogo/bash-blog/feed.rss
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bash-blog/24271.html</link>
 <guid>http://warut92.github.io/blogo/bash-blog/./24271.html</guid>
@@ -48,8 +78,11 @@
 
 
 
+<<<<<<< HEAD:blogo/bb/feed.rss
 
 
+=======
+>>>>>>> 8d271e39c2eb428edf5370f6e0c9db6c92573a86:blogo/bash-blog/feed.rss
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bash-blog/18929.html</link>
 <guid>http://warut92.github.io/blogo/bash-blog/./18929.html</guid>
@@ -85,8 +118,11 @@
 
 
 
+<<<<<<< HEAD:blogo/bb/feed.rss
 
 
+=======
+>>>>>>> 8d271e39c2eb428edf5370f6e0c9db6c92573a86:blogo/bash-blog/feed.rss
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bash-blog/15360.html</link>
 <guid>http://warut92.github.io/blogo/bash-blog/./15360.html</guid>
@@ -127,8 +163,11 @@
 
 
 
+<<<<<<< HEAD:blogo/bb/feed.rss
 
 
+=======
+>>>>>>> 8d271e39c2eb428edf5370f6e0c9db6c92573a86:blogo/bash-blog/feed.rss
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bash-blog/14655.html</link>
 <guid>http://warut92.github.io/blogo/bash-blog/./14655.html</guid>
