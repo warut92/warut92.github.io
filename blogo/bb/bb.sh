@@ -24,12 +24,12 @@ global_variables() {
     # The typical subtitle for each blog
     global_description="เขียนเรื่อยเปื่อย..."
     # The public base URL for this blog
-    global_url="http://warut92.github.io/blogo/bash-blog"
+    global_url="http://warut92.github.io/blogo/bb"
 
     # Your name
     global_author="นายเพนกวิน"
     # You can use twitter or facebook or anything for global_author_url
-    global_author_url="" 
+    global_author_url="4157.html" 
     # Your email
     global_email=""
 
