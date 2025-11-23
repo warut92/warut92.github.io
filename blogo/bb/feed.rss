@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>ดอกไม้ผลิบาน ใบไม้ร่วงโรย</title><link>http://warut92.github.io/blogo/bb/index.html</link>
 <description>เขียนเรื่อยเปื่อย...</description><language>en</language>
-<lastBuildDate>Sun, 23 Nov 2025 15:28:36 +0700</lastBuildDate>
-<pubDate>Sun, 23 Nov 2025 15:28:36 +0700</pubDate>
+<lastBuildDate>Sun, 23 Nov 2025 15:56:17 +0700</lastBuildDate>
+<pubDate>Sun, 23 Nov 2025 15:56:17 +0700</pubDate>
 <atom:link href="http://warut92.github.io/blogo/bb/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 ปัญหาในการใช้
@@ -28,6 +28,7 @@
 <p><em>เพราะว่ามันยุ่งยาก ผมจึงใช้มัน ชีวิตจะได้มีสีสัน ไม่น่าเบื่อ</em></p>
 
 <p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/17200.html</link>
 <guid>http://warut92.github.io/blogo/bb/./17200.html</guid>
@@ -44,6 +45,7 @@
 <p>จากนั้นใช้คำสั่ง ./bb.sh post แล้วจะได้ไฟล์ .html มา ต่อจากนั้น ให้เป็นแก้ timestamp ที่คอมเมนต์อยู่ในไฟล์ html โดยเลือกเปลี่ยนปีเดือนวันเอา จากนั้นก็ ./bb.sh rebuild ก็เป็นอันเสร็จเรียบร้อย</p>
 
 <p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/10495.html</link>
 <guid>http://warut92.github.io/blogo/bb/./10495.html</guid>
@@ -66,6 +68,7 @@
 <p>เท่านั้น</p>
 
 <p>Tags: <a href='tag_คิดไปเรื่อย.html'>คิดไปเรื่อย</a></p>
+
 
 
 
@@ -113,6 +116,7 @@
 
 
 
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/24271.html</link>
 <guid>http://warut92.github.io/blogo/bb/./24271.html</guid>
@@ -125,6 +129,7 @@
 <p>ตอนแรกผมก็งง ว่าเวลา รันคำสั่งสำหรับการสร้างบล็อกทำไมไฟล์แก้ไขไม่เป็น .md แต่เป็น .html ซึ่งมันก็จะลำบากนิดหน่อยในการพิมพ์แท็ก (จริง ๆ ก็ไม่อยากมาก แต่ .md มันสะดวกกว่ามาก เพียงแค่พิมพ์ไปตรง ๆ เลย ถ้าไม่เน้นข้อความอะไร) พอไปอ่านไฟล์ bb.sh เห็นว่าต้องมี Markdowm.pl เราก็เลยไปค้นมาในเน็ต <a href="https://github.com/mackyle/markdown/blob/master/Markdown.pl"> mackyle/markdown</a> โหลดมาแล้วก็ใส่ในไดเรกทอรี จากนั้นตูม!! เรียบร้อย</p>
 
 <p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
+
 
 
 
@@ -164,6 +169,7 @@
 
 
 
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/15360.html</link>
 <guid>http://warut92.github.io/blogo/bb/./15360.html</guid>
@@ -193,6 +199,7 @@
 
 
 
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/14655.html</link>
 <guid>http://warut92.github.io/blogo/bb/./14655.html</guid>
@@ -211,6 +218,7 @@
 <p>เพราะ แพนกวินเป็นสัญลักษณ์ของลินุกซ์ ระบบปฏิบัติการคอมพิวเตอร์แบบเปิดโค้ด ที่ให้อิสระในการปรับแต่งมาก</p>
 
 <p>แค่นี้นะ ขอบใจที่เข้ามาเจอและอ่าน หวังว่าจะได้อะไรไปบ้าง</p>
+
 
 
 
