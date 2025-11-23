@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>ดอกไม้ผลิบาน ใบไม้ร่วงโรย</title><link>http://warut92.github.io/blogo/bb/index.html</link>
 <description>เขียนเรื่อยเปื่อย...</description><language>en</language>
-<lastBuildDate>Sun, 23 Nov 2025 15:56:17 +0700</lastBuildDate>
-<pubDate>Sun, 23 Nov 2025 15:56:17 +0700</pubDate>
+<lastBuildDate>Sun, 23 Nov 2025 20:12:02 +0700</lastBuildDate>
+<pubDate>Sun, 23 Nov 2025 20:12:02 +0700</pubDate>
 <atom:link href="http://warut92.github.io/blogo/bb/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 ปัญหาในการใช้
@@ -29,6 +29,13 @@
 
 <p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
 
+
+
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/17200.html</link>
 <guid>http://warut92.github.io/blogo/bb/./17200.html</guid>
@@ -45,6 +52,13 @@
 <p>จากนั้นใช้คำสั่ง ./bb.sh post แล้วจะได้ไฟล์ .html มา ต่อจากนั้น ให้เป็นแก้ timestamp ที่คอมเมนต์อยู่ในไฟล์ html โดยเลือกเปลี่ยนปีเดือนวันเอา จากนั้นก็ ./bb.sh rebuild ก็เป็นอันเสร็จเรียบร้อย</p>
 
 <p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
+
+
+
+
+
+
+
 
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/10495.html</link>
@@ -68,6 +82,13 @@
 <p>เท่านั้น</p>
 
 <p>Tags: <a href='tag_คิดไปเรื่อย.html'>คิดไปเรื่อย</a></p>
+
+
+
+
+
+
+
 
 
 
@@ -117,6 +138,13 @@
 
 
 
+
+
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/24271.html</link>
 <guid>http://warut92.github.io/blogo/bb/./24271.html</guid>
@@ -129,6 +157,13 @@
 <p>ตอนแรกผมก็งง ว่าเวลา รันคำสั่งสำหรับการสร้างบล็อกทำไมไฟล์แก้ไขไม่เป็น .md แต่เป็น .html ซึ่งมันก็จะลำบากนิดหน่อยในการพิมพ์แท็ก (จริง ๆ ก็ไม่อยากมาก แต่ .md มันสะดวกกว่ามาก เพียงแค่พิมพ์ไปตรง ๆ เลย ถ้าไม่เน้นข้อความอะไร) พอไปอ่านไฟล์ bb.sh เห็นว่าต้องมี Markdowm.pl เราก็เลยไปค้นมาในเน็ต <a href="https://github.com/mackyle/markdown/blob/master/Markdown.pl"> mackyle/markdown</a> โหลดมาแล้วก็ใส่ในไดเรกทอรี จากนั้นตูม!! เรียบร้อย</p>
 
 <p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
+
+
+
+
+
+
+
 
 
 
@@ -170,6 +205,13 @@
 
 
 
+
+
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/15360.html</link>
 <guid>http://warut92.github.io/blogo/bb/./15360.html</guid>
@@ -200,6 +242,13 @@
 
 
 
+
+
+
+
+
+
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/14655.html</link>
 <guid>http://warut92.github.io/blogo/bb/./14655.html</guid>
@@ -211,18 +260,31 @@
 
 <p>นายเพนกวิน คือใคร</p>
 
-<p>คือผู้ที่เขียนบล็อกนี้ เป็นคนเงียบ ๆ ชอบหนังไซไฟ ชอบคอมพิวเตอร์ ชอบดนตรี</p>
+<p>คือผู้ที่เขียนบล็อกนี้ ชอบหนังไซไฟ อ่านนิยายไซไฟบ้าง ชอบคอมพิวเตอร์ ชอบดนตรี</p>
 
 <p>ทำไมต้องนายเพนกวิน </p>
 
-<p>เพราะ แพนกวินเป็นสัญลักษณ์ของลินุกซ์ ระบบปฏิบัติการคอมพิวเตอร์แบบเปิดโค้ด ที่ให้อิสระในการปรับแต่งมาก</p>
+<p>เพราะ แพนกวินเป็นสัญลักษณ์ของลินุกซ์ ระบบปฏิบัติการคอมพิวเตอร์แบบเปิดโค้ด ที่ให้อิสระในการปรับแต่งมาก และผมก็ชอบเพนกวิน</p>
 
 <p>แค่นี้นะ ขอบใจที่เข้ามาเจอและอ่าน หวังว่าจะได้อะไรไปบ้าง</p>
 
+<!-- text end -->
+]]></description><link>http://warut92.github.io/blogo/bb/4157.html</link>
+<guid>http://warut92.github.io/blogo/bb/./4157.html</guid>
+<dc:creator>นายเพนกวิน</dc:creator>
+<pubDate>Sun, 09 Nov 2025 00:12:54 +0700</pubDate></item>
+<item><title>
+การพิมพ์ที่ง่ายที่สุด
+</title><description><![CDATA[
 
+<p>ผมว่าง่ายที่สุดคือการพิมพ์กับอีดิเตอร์ข้อความโดยตรงเลย ง่ายที่สุด
 
+ผมจะพิมพ์อะไรก็ได้ สบาย ๆ ง่าย ๆ 
 
+ตอนนี้รู้สึกปวดตา มีอาการ snow syndrom มาตั้งแต่ น่าจะเดือนธันวา ปี 67 ที่จริงก็จำไม่ได้แน่ ว่าเริ่มเป็นตั้งแต่
+เมือไหร่ รู้ตัวอีกทีมันก็เป็นไปแล้ว ทำใจ</p>
 
+<p>Tags: <a href='tag_ย้อยหลัง.html'>ย้อยหลัง</a></p>
 
 
 
@@ -230,8 +292,26 @@
 
 
 <!-- text end -->
-]]></description><link>http://warut92.github.io/blogo/bb/4157.html</link>
-<guid>http://warut92.github.io/blogo/bb/./4157.html</guid>
+]]></description><link>http://warut92.github.io/blogo/bb/23357.html</link>
+<guid>http://warut92.github.io/blogo/bb/./23357.html</guid>
 <dc:creator>นายเพนกวิน</dc:creator>
-<pubDate>Sun, 09 Nov 2025 00:12:54 +0700</pubDate></item>
+<pubDate>Sat, 08 Nov 2025 19:24:56 +0700</pubDate></item>
+<item><title>
+Stranga Orkido
+</title><description><![CDATA[
+
+<p>Mi nun legas novelon de H.G. Wells. Temas pri iu orkido. Iu profesoro, kiu tre sxatas kolekti plantojn en propra vitra domo. Iutage li prenis strangan orkidon de iu malnova ne konata loko, kie oni povas acxeti malofte trovitajn plantojn el malproksima lando. Li pro lia sxatego de la strangaj plantoj zorgas tre bone la orkido acxetita. Iutage li iris al sia vitra domo sen teo servita de lia domzorgantino, do sxi iom pensas, ke eble li forgesis preni la teon pro tio ke li tro sxatas labori en la vitra domo, tamen post iom da tempo li tute vokis por la teo, cxar kutime li sxatas ankaux trinki la teon ecx fojfoje mi tro sxatas plantzorgadon, sed li neniam forgesis trinki teon. Sxi nu venis al la vitra domo pro kontroli kio vere okazas al li. Kiam sxi estis en la vitra domo li estis kusxanta sur la planko, kaj la orkido estis sur li kun sango!</p>
+
+<p>Tags: <a href='tag_Esperanto.html'>Esperanto</a></p>
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>http://warut92.github.io/blogo/bb/stranga-orkido.html</link>
+<guid>http://warut92.github.io/blogo/bb/./stranga-orkido.html</guid>
+<dc:creator>นายเพนกวิน</dc:creator>
+<pubDate>Mon, 20 Oct 2025 19:33:24 +0700</pubDate></item>
 </channel></rss>

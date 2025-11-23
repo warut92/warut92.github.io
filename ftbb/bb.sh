@@ -20,16 +20,16 @@ global_variables() {
     global_software_version="2.10"
 
     # Blog title
-    global_title="ดอกไม้ผลิบาน ใบไม้ร่วงโรย"
+    global_title="เครื่องจักร อวกาศ กาลเวลา"
     # The typical subtitle for each blog
-    global_description="เขียนเรื่อยเปื่อย..."
+    global_description="เขียนเรื่องสั้นให้ได้ 10 เรื่อง..."
     # The public base URL for this blog
-    global_url="http://warut92.github.io/blogo/bb"
+    global_url="http://warut92.github.io/ftbb"
 
     # Your name
-    global_author="นายเพนกวิน"
+    global_author="pingveno"
     # You can use twitter or facebook or anything for global_author_url
-    global_author_url="4157.html" 
+    global_author_url="" 
     # Your email
     global_email=""
 
