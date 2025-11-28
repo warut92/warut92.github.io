@@ -2,9 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>ดอกไม้ผลิบาน ใบไม้ร่วงโรย</title><link>http://warut92.github.io/blogo/bb/index.html</link>
 <description>เขียนเรื่อยเปื่อย...</description><language>en</language>
-<lastBuildDate>Fri, 28 Nov 2025 18:18:37 +0700</lastBuildDate>
-<pubDate>Fri, 28 Nov 2025 18:18:37 +0700</pubDate>
+<lastBuildDate>Fri, 28 Nov 2025 18:26:00 +0700</lastBuildDate>
+<pubDate>Fri, 28 Nov 2025 18:26:00 +0700</pubDate>
 <atom:link href="http://warut92.github.io/blogo/bb/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+เย็นวันศุกร์
+</title><description><![CDATA[
+
+<p>ตอนนี้เป็นเวลาประมาณ 6.30 ของเย็นวันศุกร์ ผมยังอยู่ที่ทำงาน แต่คนอื่น ๆ กลับบ้านกันไปหมดแล้ว ที่นี้ตอนนี้เงียบมาก</p>
+
+<p>แบบสงบด้วย ไม่มีเสียงอะไรเลย ผมชอบบรรยากาศแบบนี้มาก เหมือนไม่ต้องกังวลอะไร ถึงแม้ว่าจะมีเรื่องลุ้น ๆ อยู่ 2 เรื่่อง</p>
+
+<p>ในวันเสาร์กับอาทิตย์ มาดูสิว่าจะเป็นอย่างไร </p>
+
+<p>Tags: <a href='tag_ชีวิต.html'>ชีวิต</a></p>
+<!-- text end -->
+]]></description><link>http://warut92.github.io/blogo/bb/17643291561331.html</link>
+<guid>http://warut92.github.io/blogo/bb/./17643291561331.html</guid>
+<dc:creator>นายเพนกวิน</dc:creator>
+<pubDate>Fri, 28 Nov 2025 18:25:56 +0700</pubDate></item>
 <item><title>
 การใช้ Git ผ่าน Terminal
 </title><description><![CDATA[
@@ -356,31 +372,4 @@
 <dc:creator>นายเพนกวิน
 </dc:creator>
 <pubDate>Sun, 09 Nov 2025 07:55:08 +0700</pubDate></item>
-<item><title>
-เกี่ยวกับ
-</title><description><![CDATA[
-
-<p>นายเพนกวิน คือใคร</p>
-
-<p>คือผู้ที่เขียนบล็อกนี้ ชอบหนังไซไฟ อ่านนิยายไซไฟบ้าง ชอบคอมพิวเตอร์ ชอบดนตรี</p>
-
-<p>ทำไมต้องนายเพนกวิน </p>
-
-<p>เพราะ แพนกวินเป็นสัญลักษณ์ของลินุกซ์ ระบบปฏิบัติการคอมพิวเตอร์แบบเปิดโค้ด ที่ให้อิสระในการปรับแต่งมาก และผมก็ชอบเพนกวิน</p>
-
-<p>แค่นี้นะ ขอบใจที่เข้ามาเจอและอ่าน หวังว่าจะได้อะไรไปบ้าง</p>
-
-
-
-
-
-
-
-
-<!-- text end -->
-]]></description><link>http://warut92.github.io/blogo/bb/4157.html</link>
-<guid>http://warut92.github.io/blogo/bb/./4157.html</guid>
-<dc:creator>นายเพนกวิน
-</dc:creator>
-<pubDate>Sun, 09 Nov 2025 00:12:54 +0700</pubDate></item>
 </channel></rss>
