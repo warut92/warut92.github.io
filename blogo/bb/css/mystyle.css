@@ -1,3 +1,5 @@
+@import 'https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/TlwgTypewriter/TlwgTypewriter.css';
+
 :root {
     --main-txt-color: rgb(116, 255, 116);
 }
@@ -8,7 +10,7 @@ html {
 
 body,
 * {
-    font-family: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    font-family: 'Tlwg Typewriter', monospace;
     color: white;
     background-color: rgb(34, 33, 41);
 }

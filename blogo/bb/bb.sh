@@ -150,7 +150,9 @@ global_variables() {
     # Experts only. You may need to tune the locales too
     # Leave empty for no conversion, which is not recommended
     # This default filter respects backwards compatibility
-    convert_filename="iconv -f utf-8 -t ascii//translit | sed 's/^-*//' | tr [:upper:] [:lower:] | tr ' ' '-' | tr -dc '[:alnum:]-'"
+    # convert_filename="iconv -f utf-8 -t ascii//translit | sed 's/^-*//' | tr [:upper:] [:lower:] | tr ' ' '-' | tr -dc '[:alnum:]-'"
+    convert_filename="echo \$(date +%s)\$(shuf -i 1000-9999 -n 1)"
+
 
     # URL where you can view the post while it's being edited
     # same as global_url by default
