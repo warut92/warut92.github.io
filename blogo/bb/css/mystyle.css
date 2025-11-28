@@ -43,3 +43,8 @@ img {
     border-top: solid 1px #ffffff;
     text-align: center;
 }
+
+code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: brown;
+}

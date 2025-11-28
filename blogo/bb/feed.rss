@@ -2,21 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>ดอกไม้ผลิบาน ใบไม้ร่วงโรย</title><link>http://warut92.github.io/blogo/bb/index.html</link>
 <description>เขียนเรื่อยเปื่อย...</description><language>en</language>
-<lastBuildDate>Thu, 27 Nov 2025 23:50:21 +0700</lastBuildDate>
-<pubDate>Thu, 27 Nov 2025 23:50:21 +0700</pubDate>
+<lastBuildDate>Fri, 28 Nov 2025 10:05:03 +0700</lastBuildDate>
+<pubDate>Fri, 28 Nov 2025 10:05:03 +0700</pubDate>
 <atom:link href="http://warut92.github.io/blogo/bb/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
-ชื่อเรื่อง
+การใช้ Git ผ่าน Terminal
 </title><description><![CDATA[
 
-<p>พิมพ์เนื้อหาในรูปแบบของ <strong>Markdown</strong> เมื่อพิมพ์เรียบร้อยแล้ว บันทึกและออกจากโปรแกรม</p>
+<ol>
+<li>เมื่อเพิ่มไฟล์ใหม่ ให้ใช้คำสั่ง <code>git add .</code></li>
+<li>จากนั้นให้ดูสถานะว่าเป็นอย่างไรด้วย <code>git status</code></li>
+<li>จากนั้นบันทึกข้อความสำหรับการส่งเข้า git ด้วย <code>git commit -m 'ข้อความ'</code></li>
+<li>บันทึกเข้า git ด้วย <code>git push</code> เทอร์มินอลจะถามชื่อผู้ใช้กับรหัสผ่าน ถ้าถูกต้องก็เป็นอันเสร็จ</li>
+</ol>
 
-<p>Tags: <a href='tag_ระบุแท็กที่นี่.html'>ระบุแท็กที่นี่</a></p>
+<p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/12125.html</link>
 <guid>http://warut92.github.io/blogo/bb/./12125.html</guid>
 <dc:creator>นายเพนกวิน</dc:creator>
-<pubDate>Thu, 27 Nov 2025 23:45:08 +0700</pubDate></item>
+<pubDate>Fri, 28 Nov 2025 09:58:24 +0700</pubDate></item>
 <item><title>
 บันทึก 33
 </title><description><![CDATA[
@@ -26,10 +32,12 @@
 <p>สิ่งที่รู้สึกตอนนี้ ทำอะไร ๆ ไม่สนุกเหมือนเคย หลายสิ่งที่หวังไว้ พอมาถึงตอนนี้ก็ทำให้เข้าใจว่า เราต้องทำใจ ยอมรับ กับความที่มันไม่เป็นไปตามที่คิด หลายครั้งที่ทำให้คิดว่าอุดมการณ์เป็นสิ่งที่ไม่เป็นความจริง มันก็จริงแหละ แต่ถ้าเราไม่มีมันเลย แล้วชีวิตมันจะเป็นอย่างไร</p>
 
 <p>Tags: <a href='tag_ชีวิต.html'>ชีวิต</a></p>
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/24156.html</link>
 <guid>http://warut92.github.io/blogo/bb/./24156.html</guid>
-<dc:creator>นายเพนกวิน</dc:creator>
+<dc:creator>นายเพนกวิน
+</dc:creator>
 <pubDate>Thu, 27 Nov 2025 23:30:24 +0700</pubDate></item>
 <item><title>
 ปัญหาในการใช้
@@ -62,10 +70,12 @@
 
 
 
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/17200.html</link>
 <guid>http://warut92.github.io/blogo/bb/./17200.html</guid>
-<dc:creator>นายเพนกวิน</dc:creator>
+<dc:creator>นายเพนกวิน
+</dc:creator>
 <pubDate>Sun, 23 Nov 2025 15:23:36 +0700</pubDate></item>
 <item><title>
 การโพสต์ย้อนหลัง
@@ -86,10 +96,12 @@
 
 
 
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/10495.html</link>
 <guid>http://warut92.github.io/blogo/bb/./10495.html</guid>
-<dc:creator>นายเพนกวิน</dc:creator>
+<dc:creator>นายเพนกวิน
+</dc:creator>
 <pubDate>Sun, 23 Nov 2025 14:29:07 +0700</pubDate></item>
 <item><title>
 ช่วงเวลา
@@ -126,10 +138,12 @@
 
 
 
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/15367.html</link>
 <guid>http://warut92.github.io/blogo/bb/./15367.html</guid>
-<dc:creator>นายเพนกวิน</dc:creator>
+<dc:creator>นายเพนกวิน
+</dc:creator>
 <pubDate>Mon, 10 Nov 2025 22:42:44 +0700</pubDate></item>
 <item><title>
 สิ่งที่อยู่ตรงหน้า
@@ -171,10 +185,12 @@
 
 
 
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/24271.html</link>
 <guid>http://warut92.github.io/blogo/bb/./24271.html</guid>
-<dc:creator>นายเพนกวิน</dc:creator>
+<dc:creator>นายเพนกวิน
+</dc:creator>
 <pubDate>Sun, 09 Nov 2025 14:36:39 +0700</pubDate></item>
 <item><title>
 การติดตั้ง Markdown ใน bash blog
@@ -200,10 +216,12 @@
 
 
 
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/18929.html</link>
 <guid>http://warut92.github.io/blogo/bb/./18929.html</guid>
-<dc:creator>นายเพนกวิน</dc:creator>
+<dc:creator>นายเพนกวิน
+</dc:creator>
 <pubDate>Sun, 09 Nov 2025 13:29:30 +0700</pubDate></item>
 <item><title>
 ปรัชญาชีวิต
@@ -238,10 +256,12 @@
 
 
 
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/15360.html</link>
 <guid>http://warut92.github.io/blogo/bb/./15360.html</guid>
-<dc:creator>นายเพนกวิน</dc:creator>
+<dc:creator>นายเพนกวิน
+</dc:creator>
 <pubDate>Sun, 09 Nov 2025 08:23:52 +0700</pubDate></item>
 <item><title>
 การทดลอง
@@ -275,10 +295,12 @@
 
 
 
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/14655.html</link>
 <guid>http://warut92.github.io/blogo/bb/./14655.html</guid>
-<dc:creator>นายเพนกวิน</dc:creator>
+<dc:creator>นายเพนกวิน
+</dc:creator>
 <pubDate>Sun, 09 Nov 2025 07:55:08 +0700</pubDate></item>
 <item><title>
 เกี่ยวกับ
@@ -294,9 +316,11 @@
 
 <p>แค่นี้นะ ขอบใจที่เข้ามาเจอและอ่าน หวังว่าจะได้อะไรไปบ้าง</p>
 
+
 <!-- text end -->
 ]]></description><link>http://warut92.github.io/blogo/bb/4157.html</link>
 <guid>http://warut92.github.io/blogo/bb/./4157.html</guid>
-<dc:creator>นายเพนกวิน</dc:creator>
+<dc:creator>นายเพนกวิน
+</dc:creator>
 <pubDate>Sun, 09 Nov 2025 00:12:54 +0700</pubDate></item>
 </channel></rss>

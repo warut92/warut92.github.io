@@ -14,17 +14,23 @@
 </div></div></div>
 <div id="divbody"><div class="content">
 <h3><a class="ablack" href="12125.html">
-ชื่อเรื่อง
+การใช้ Git ผ่าน Terminal
 </a></h3>
-<!-- bashblog_timestamp: #202511272345.08# -->
-<div class="subtitle">25-11-27 &mdash; 
+<!-- bashblog_timestamp: #202511280958.24# -->
+<div class="subtitle">25-11-28 &mdash; 
 นายเพนกวิน
 </div>
 <!-- text begin -->
 
-<p>พิมพ์เนื้อหาในรูปแบบของ <strong>Markdown</strong> เมื่อพิมพ์เรียบร้อยแล้ว บันทึกและออกจากโปรแกรม</p>
+<ol>
+<li>เมื่อเพิ่มไฟล์ใหม่ ให้ใช้คำสั่ง <code>git add .</code></li>
+<li>จากนั้นให้ดูสถานะว่าเป็นอย่างไรด้วย <code>git status</code></li>
+<li>จากนั้นบันทึกข้อความสำหรับการส่งเข้า git ด้วย <code>git commit -m 'ข้อความ'</code></li>
+<li>บันทึกเข้า git ด้วย <code>git push</code> เทอร์มินอลจะถามชื่อผู้ใช้กับรหัสผ่าน ถ้าถูกต้องก็เป็นอันเสร็จ</li>
+</ol>
 
-<p>Tags: <a href='tag_ระบุแท็กที่นี่.html'>ระบุแท็กที่นี่</a></p>
+<p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
+
 <!-- text end -->
 <h3><a class="ablack" href="24156.html">
 บันทึก 33
@@ -32,6 +38,7 @@
 <!-- bashblog_timestamp: #202511272330.24# -->
 <div class="subtitle">25-11-27 &mdash; 
 นายเพนกวิน
+
 </div>
 <!-- text begin -->
 
@@ -40,6 +47,7 @@
 <p>สิ่งที่รู้สึกตอนนี้ ทำอะไร ๆ ไม่สนุกเหมือนเคย หลายสิ่งที่หวังไว้ พอมาถึงตอนนี้ก็ทำให้เข้าใจว่า เราต้องทำใจ ยอมรับ กับความที่มันไม่เป็นไปตามที่คิด หลายครั้งที่ทำให้คิดว่าอุดมการณ์เป็นสิ่งที่ไม่เป็นความจริง มันก็จริงแหละ แต่ถ้าเราไม่มีมันเลย แล้วชีวิตมันจะเป็นอย่างไร</p>
 
 <p>Tags: <a href='tag_ชีวิต.html'>ชีวิต</a></p>
+
 <!-- text end -->
 <h3><a class="ablack" href="17200.html">
 ปัญหาในการใช้
@@ -47,6 +55,7 @@
 <!-- bashblog_timestamp: #202511231523.36# -->
 <div class="subtitle">25-11-23 &mdash; 
 นายเพนกวิน
+
 </div>
 <!-- text begin -->
 
@@ -77,6 +86,7 @@
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="10495.html">
 การโพสต์ย้อนหลัง
@@ -84,6 +94,7 @@
 <!-- bashblog_timestamp: #202511231429.07# -->
 <div class="subtitle">25-11-23 &mdash; 
 นายเพนกวิน
+
 </div>
 <!-- text begin -->
 
@@ -102,6 +113,7 @@
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="15367.html">
 ช่วงเวลา
@@ -109,6 +121,7 @@
 <!-- bashblog_timestamp: #202511102242.44# -->
 <div class="subtitle">25-11-10 &mdash; 
 นายเพนกวิน
+
 </div>
 <!-- text begin -->
 
@@ -143,6 +156,7 @@
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="24271.html">
 สิ่งที่อยู่ตรงหน้า
@@ -150,6 +164,7 @@
 <!-- bashblog_timestamp: #202511091436.39# -->
 <div class="subtitle">25-11-09 &mdash; 
 นายเพนกวิน
+
 </div>
 <!-- text begin -->
 
@@ -189,6 +204,7 @@
 
 
 
+
 <!-- text end -->
 <h3><a class="ablack" href="18929.html">
 การติดตั้ง Markdown ใน bash blog
@@ -196,12 +212,14 @@
 <!-- bashblog_timestamp: #202511091329.30# -->
 <div class="subtitle">25-11-09 &mdash; 
 นายเพนกวิน
+
 </div>
 <!-- text begin -->
 
 <p>ตอนแรกผมก็งง ว่าเวลา รันคำสั่งสำหรับการสร้างบล็อกทำไมไฟล์แก้ไขไม่เป็น .md แต่เป็น .html ซึ่งมันก็จะลำบากนิดหน่อยในการพิมพ์แท็ก (จริง ๆ ก็ไม่อยากมาก แต่ .md มันสะดวกกว่ามาก เพียงแค่พิมพ์ไปตรง ๆ เลย ถ้าไม่เน้นข้อความอะไร) พอไปอ่านไฟล์ bb.sh เห็นว่าต้องมี Markdowm.pl เราก็เลยไปค้นมาในเน็ต <a href="https://github.com/mackyle/markdown/blob/master/Markdown.pl"> mackyle/markdown</a> โหลดมาแล้วก็ใส่ในไดเรกทอรี จากนั้นตูม!! เรียบร้อย</p>
 
 <p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
+
 
 
 
@@ -226,6 +244,7 @@
 <!-- bashblog_timestamp: #202511090823.52# -->
 <div class="subtitle">25-11-09 &mdash; 
 นายเพนกวิน
+
 </div>
 <!-- text begin -->
 
@@ -240,6 +259,7 @@
 จริง ๆ ก็เป็นเรื่องน่าขบคิด...</p>
 
 <p>Tags: <a href='tag_คิดไปเรื่อย.html'>คิดไปเรื่อย</a></p>
+
 
 
 
