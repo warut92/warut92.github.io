@@ -1,1 +1,0 @@
-Kial mi ekuzis Linukson?
