@@ -10,10 +10,9 @@ markdown_to_html() {
 }
 
 BLOG_NAME="ดอกไม้ผลิบาน ใบไม้ร่วงโรย"
-BLOG_DESCRIPTION="เขียนเรียงเปื่อย..."
-footer="CC by-nc-nd - นายเพนกวิน - <a href="rss.xml">ติดตามบล็อก</a><br/>บล็อกนี้สร้างด้วยไฟล์ bash โดยแรงบันดาลใจจาก <a href="https://github.com/cfenollosa/bashblog">bashblog</a>"
-BLOG_URL=""
-
+BLOG_DESCRIPTION="เขียนเรี่อยเปื่อย..."
+footer="<a href="./tags.html">ดูแท็กทั้งหมด</a><br>CC by-nc-nd - นายเพนกวิน - <a href="rss.xml">ติดตามบล็อก</a><br/>บล็อกนี้สร้างด้วยไฟล์ bash ไฟล์เดียว จากแรงบันดาลใจจาก <a href="https://github.com/cfenollosa/bashblog">bashblog</a>"
+BLOG_URL="https://warut92.github.io/blogo/html"
 
 DATA_DIR="./data"
 OUT_DIR="./html"
@@ -87,7 +86,7 @@ for file in "$DATA_DIR"/*.md; do
             tag_slug=$(echo "$t" | tr ' ' '_' )
             echo "<a href='tags_$tag_slug.html'>[$t]</a> "
         done
-        echo "</p></body></html>"
+        echo "</p><hr><center>$footer</center></body></html>"
     } > "$output"
 
     rm "$tmp_md"
@@ -111,7 +110,7 @@ for file in "$DATA_DIR"/*.md; do
     RSS_ITEMS+="
 <item>
   <title>$(echo "$title" | sed 's/&/\&amp;/g')</title>
-  <link>https://example.com/html/$filename.html</link>
+  <link>$BLOG_URL/$filename.html</link>
   <pubDate>$pubdate_rss</pubDate>
   <description><![CDATA[$(sed '1d;$d' "$file")]]></description>
 </item>"
@@ -133,17 +132,17 @@ echo "</ul><hr><center>$footer</center>" >> "$INDEX_FILE"
 ###########################################
 # สร้างหน้าแท็ก
 ###########################################
-echo "<h1>All Tags</h1><ul>" > "$TAG_FILE"
+echo "<html><head><meta charset='utf-8'><title>$BLOG_NAME</title><link rel="stylesheet" href="../css/mystyle.css" type="text/css" /></head><body><h1>$BLOG_NAME</h1><h>แท็กทั้งหมด</h><ul>" > "$TAG_FILE"
 
 for tag in "${!TAG_MAP[@]}"; do
     tag_slug=$(echo "$tag" | tr ' ' '_' )
     tag_page="$OUT_DIR/tags_$tag_slug.html"
 
-    echo "<li><a href='tags_$tag_slug.html'>$tag</a></li>" >> "$TAG_FILE"
+    echo "<li><a href='tags_$tag_slug.html'>[$tag]</a></li>" >> "$TAG_FILE"
 
     {
         echo "<html><head><meta charset='utf-8'><title>Tag: $tag</title><link rel="stylesheet" href="../css/mystyle.css" type="text/css" /></head><body>"
-        echo "<h1>Tag: $tag</h1><ul>"
+        echo "<h1>แท็ก: $tag</h1><ul>"
         IFS=';' read -ra entries <<< "${TAG_MAP[$tag]}"
         for entry in "${entries[@]}"; do
             [[ -z "$entry" ]] && continue
@@ -152,7 +151,7 @@ for tag in "${!TAG_MAP[@]}"; do
             datep=$(echo "$entry" | cut -d '|' -f3)
             echo "<li><a href='$filelink'>$title</a> - $datep</li>"
         done
-        echo "</ul></body></html>"
+        echo "</ul><hr><center>$footer</center></body></html>"
     } > "$tag_page"
 done
 
@@ -166,7 +165,7 @@ echo "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>"
 echo "<rss version=\"2.0\">"
 echo "<channel>"
 echo "  <title>$BLOG_NAME</title>"
-echo "  <link>https://example.com/</link>"
+echo "  <link>$BLOG_URL</link>"
 echo "  <description>RSS feed for $BLOG_NAME</description>"
 echo "$RSS_ITEMS"
 echo "</channel>"

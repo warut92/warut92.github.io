@@ -1,0 +1,8 @@
+Mi transloĝiĝis!
+DATE: 2019-10-20
+
+Nu, lasttempe mi transloĝiĝis al alia urbo pro la laboro. Mi nun loĝas sola. Antaŭe mi loĝis kun miaj gepatroj, sed nun mi devas loĝi sola, sen iu, al kiu mi povas babili. Do, mi sentas min sola pli ol antaŭe. Nu, mi devas serĉi ion por okupi. Hodiaŭ estas dimanĉo. Dum la tuta tago, mi pasigis tempon pere de kuŝado sur la malmola planko, uzante poŝtelefonon aŭ komputilon. Mi ankoraŭ ne aĉetis liton pro tio, ke baldaŭ mi devos transloĝiĝi al instruista dormejo. Ho, samlandanoj povas bone imagi kiel ĝi estas. Tamen, por tiu ĉi artikoleto mi ne rakontos al vi pri mia selektado de litoj. Sed pri filmo, kiun mi spektis por pasigi la tempon. Atentu, ke mi rakontos al vi plene pri la enhavo, tamen mi ne diros al vi, kiun nomon havas ĝi. Temas pri iu viro, kaj iu virino, kiuj vojaĝas al Koreio, ili fakte aparte vojaĝas, sed pro iu sorto ili povas kune vojaĝi. La intereso de la filmo estas ke ambaŭ viro kaj virino estis ĵus ĉesigitaj de amrilato kun siaj amato/amatino. Pro la sorto mi povas kune vojaĝi, kune iri tien kaj tien, tamen ili ne scias la nomon unu la alian (mi ne povas kredi!). Kiel kutime por tia filmo la enamiĝo aperas. Ili ambaŭ enamiĝas unu kun la alia. Do, ili pasigis bonan tempon kun reciproka am-sento dum kelkaj tagoj. Kiam venas la lasta tago, kiam ili devas reveni. Tuj post la unua alpaŝo el la elirejo, la amatino de la viro aperas. Ŝi venas tie por re-amrilatigi la viron. Do, la viro iel akceptis ŝin denove, pro tio ŝokiĝis la virino, kiu jam havas konfirmon, ke ŝi ankaŭ amas la viron. Finfine, ili disiĝis. La viro revenis kun sia amatino.
+
+201901202243
+
+[Esperanto]

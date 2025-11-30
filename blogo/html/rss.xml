@@ -2,108 +2,219 @@
 <rss version="2.0">
 <channel>
   <title>ดอกไม้ผลิบาน ใบไม้ร่วงโรย</title>
-  <link>https://example.com/</link>
+  <link>https://warut92.github.io/blogo/html</link>
   <description>RSS feed for ดอกไม้ผลิบาน ใบไม้ร่วงโรย</description>
 
 <item>
-  <title>การโพสต์ย้อนหลัง</title>
-  <link>https://example.com/html/10495.html</link>
-  <pubDate>Sun, 23 Nov 2025 00:00:00 +0700</pubDate>
-  <description><![CDATA[DATE: 2025-11-23
+  <title>Mi transloĝiĝis!</title>
+  <link>https://warut92.github.io/blogo/html/190120mi-translogxigxis.html</link>
+  <pubDate>อา., 20 ต.ค. 2019 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2019-10-20
 
-เนื่องจากปกติแล้ว ผมเขียนบันทึกเรื่องราว ความคิด ความเห็น ด้วยคอมพิวเตอร์อยู่บ้าง โดยเขียนในรูปแบบของไฟล์ .txt
+Nu, lasttempe mi transloĝiĝis al alia urbo pro la laboro. Mi nun loĝas sola. Antaŭe mi loĝis kun miaj gepatroj, sed nun mi devas loĝi sola, sen iu, al kiu mi povas babili. Do, mi sentas min sola pli ol antaŭe. Nu, mi devas serĉi ion por okupi. Hodiaŭ estas dimanĉo. Dum la tuta tago, mi pasigis tempon pere de kuŝado sur la malmola planko, uzante poŝtelefonon aŭ komputilon. Mi ankoraŭ ne aĉetis liton pro tio, ke baldaŭ mi devos transloĝiĝi al instruista dormejo. Ho, samlandanoj povas bone imagi kiel ĝi estas. Tamen, por tiu ĉi artikoleto mi ne rakontos al vi pri mia selektado de litoj. Sed pri filmo, kiun mi spektis por pasigi la tempon. Atentu, ke mi rakontos al vi plene pri la enhavo, tamen mi ne diros al vi, kiun nomon havas ĝi. Temas pri iu viro, kaj iu virino, kiuj vojaĝas al Koreio, ili fakte aparte vojaĝas, sed pro iu sorto ili povas kune vojaĝi. La intereso de la filmo estas ke ambaŭ viro kaj virino estis ĵus ĉesigitaj de amrilato kun siaj amato/amatino. Pro la sorto mi povas kune vojaĝi, kune iri tien kaj tien, tamen ili ne scias la nomon unu la alian (mi ne povas kredi!). Kiel kutime por tia filmo la enamiĝo aperas. Ili ambaŭ enamiĝas unu kun la alia. Do, ili pasigis bonan tempon kun reciproka am-sento dum kelkaj tagoj. Kiam venas la lasta tago, kiam ili devas reveni. Tuj post la unua alpaŝo el la elirejo, la amatino de la viro aperas. Ŝi venas tie por re-amrilatigi la viron. Do, la viro iel akceptis ŝin denove, pro tio ŝokiĝis la virino, kiu jam havas konfirmon, ke ŝi ankaŭ amas la viron. Finfine, ili disiĝis. La viro revenis kun sia amatino.
 
-ตอนนี้ผมต้องการที่จะย้ายไฟล์เหล่านั้นมาอยู่ในบล็อกของผม วิธีการคือ... การสร้างไฟล์ .md ในโฟลเดอร์ร่าง
-
-จากนั้นใช้คำสั่ง ./bb.sh post แล้วจะได้ไฟล์ .html มา ต่อจากนั้น ให้เป็นแก้ timestamp ที่คอมเมนต์อยู่ในไฟล์ html โดยเลือกเปลี่ยนปีเดือนวันเอา จากนั้นก็ ./bb.sh rebuild ก็เป็นอันเสร็จเรียบร้อย]]></description>
+201901202243]]></description>
 </item>
 <item>
-  <title>การใช้ Git ผ่าน Terminal</title>
-  <link>https://example.com/html/12125.html</link>
-  <pubDate>Fri, 28 Nov 2025 00:00:00 +0700</pubDate>
-  <description><![CDATA[DATE: 2025-11-28
+  <title>Vivo estas komplikaĵo.</title>
+  <link>https://warut92.github.io/blogo/html/190127komplikavivo.html</link>
+  <pubDate>อา., 27 ม.ค. 2019 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2019-01-27
 
-1. เมื่อเพิ่มไฟล์ใหม่ ให้ใช้คำสั่ง `git add .`
-2. จากนั้นให้ดูสถานะว่าเป็นอย่างไรด้วย `git status`
-3. จากนั้นบันทึกข้อความสำหรับการส่งเข้า git ด้วย `git commit -m 'ข้อความ'`
-4. บันทึกเข้า git ด้วย `git push` เทอร์มินอลจะถามชื่อผู้ใช้กับรหัสผ่าน ถ้าถูกต้องก็เป็นอันเสร็จ
-]]></description>
+La pasintajn jarojn mi konis iun virinon, ŝi estis kompatinda pro tio ke ŝia amanto estis tiom kokrema/amema al aliaj virinoj. Tamen ŝi ankoraŭ estis amanta lin. Mi ne povis tiam kompreni kial ŝi estis tiel. Multfoje mi vidis, ke ŝi estas malfeliĉa/malgaja pro sia amanto, kaj kompreneble ŝi ĉiam repaciĝis por sia amanto. Kvankam ŝi iam plendis al mi  pri sia amanto pri la malpura ago. Mi iam konsilis al ŝi milde kaj iel serĉe, ke se vi havus okazon, nepre ĉesigu la rilaton, ĉar se lia kutimo estas daŭre tia, via vivo iros daŭre ligite kun li tia. Ŝi iel konsentis kun mia konsilo. Kompreneble, mi ne povis kompreni kiel ŝi pensis en sia kapo, kvankam ŝi konsentis kun mi. Sed mi ĵus sciis, ke ŝi jam edziniĝis kun alia viro antaŭ semajno. Hu, tio estas ŝoke mirinda! Mi tamen ne scias, kiam ŝi disiĝis kaj ĉesigis la rilaton kun iama amanto. Nu, opinias ke eble ŝi havas sian bezonon, pro tio ŝi edziniĝis tiom rapide. Kvankam mi ne kuraĝas demandi, aŭ eble pri tio estas maldece demandi al ŝi.
+
+201901272336]]></description>
 </item>
 <item>
-  <title>Stranga Orkido</title>
-  <link>https://example.com/html/123456.html</link>
-  <pubDate>Thu, 30 Oct 2025 00:00:00 +0700</pubDate>
-  <description><![CDATA[DATE: 2025-10-30
+  <title>Mia starpunkto pri Esperanto.</title>
+  <link>https://warut92.github.io/blogo/html/190203mia-esperanta-starpunkto.html</link>
+  <pubDate>อา., 03 ก.พ. 2019 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2019-02-03
 
-Mi nun legas novelon de H.G. Wells. Temas pri iu orkido. Iu profesoro, kiu tre sxatas kolekti plantojn en propra vitra domo. Iutage li prenis strangan orkidon de iu malnova ne konata loko, kie oni povas acxeti malofte trovitajn plantojn el malproksima lando. Li pro lia sxatego de la strangaj plantoj zorgas tre bone la orkido acxetita. Iutage li iris al sia vitra domo sen teo servita de lia domzorgantino, do sxi iom pensas, ke eble li forgesis preni la teon pro tio ke li tro sxatas labori en la vitra domo, tamen post iom da tempo li tute vokis por la teo, cxar kutime li sxatas ankaux trinki la teon ecx fojfoje mi tro sxatas plantzorgadon, sed li neniam forgesis trinki teon. Sxi nu venis al la vitra domo pro kontroli kio vere okazas al li. Kiam sxi estis en la vitra domo li estis kusxanta sur la planko, kaj la orkido estis sur li kun sango!
-]]></description>
+Esperanto estas la plej uzata konstruita lingvo por internacia komunikado.
+
+Esperanto ne havas nur 16 regulojn.
+
+Eŭropanoj ja povas lerni Esperanton pli rapide ol tajlandanoj. Sed tio ne estas por ĉiuj eŭropanoj.
+
+Esperanto estas neŭtrala pro politika punkto. Tamen ne lingva.
+
+201902031827]]></description>
 </item>
 <item>
-  <title>ช่วงเวลา</title>
-  <link>https://example.com/html/15367.html</link>
-  <pubDate>Mon, 10 Nov 2025 00:00:00 +0700</pubDate>
-  <description><![CDATA[DATE: 2025-11-10
+  <title>Mia vojagxo al Laoso</title>
+  <link>https://warut92.github.io/blogo/html/190408vojagxo-al-laoso.html</link>
+  <pubDate>จ., 08 เม.ย. 2019 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2019-04-08
 
-มันคือช่วงเวลาของชีวิต ความสุขใจในช่วงวัยต่าง ๆ นั้นมันก็แตกต่างกัน
+La domoj estas malgrandaj malsimile de Tajlando.
 
-วัยเด็กก็อย่าง วัยรุ่นก็อย่าง วัยทำงานก็อย่าง
+Lernejoj estas subtenataj de Japanio. Antaŭe estis faritaj de ligno. Lernantoj povas reveni hejmen por tagmanĝi kaj iom helpi siajn gepatrojn labori, poste ili devas reveni lernejen por lerni denove.
 
-ความคิดบางอย่าง ความยึดมั่นในบางอย่าง มันก็แค่สิ่งที่เกิดขึ้นในช่วงนั้น ๆ
+La ĉefa laboro de la lokanoj estas rizkampo. Gubernio Jampasak.
 
-เห็นแล้ว ก็อธิบายไปก็อาจจะเปล่าประโยชน์ 
+Akvofalo Nam Tong Taat Jeiung (fotoj)
 
-ต้องให้รู้ด้วยตัวเอง
+Kafujo estas plantata en vulkana grundo, pro tio la kafo estas bona.
 
-เท่านั้น
-]]></description>
+201904081447]]></description>
 </item>
 <item>
-  <title>ปัญหาในการใช้</title>
-  <link>https://example.com/html/17200.html</link>
-  <pubDate>Sun, 23 Nov 2025 00:00:00 +0700</pubDate>
-  <description><![CDATA[DATE: 2025-11-23
+  <title>ประโยคภาษาญี่ปุ่น</title>
+  <link>https://warut92.github.io/blogo/html/1909080ประโยคญี่ปุ่น.html</link>
+  <pubDate>พฤ., 08 ส.ค. 2019 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2019-08-08
 
-เนื่องจากผมเขียน bashblog นี้ด้วย แลปทอปวินโดวน์ ซึ่งไฟล์ bash นั้นทำงานในลินุกซ์ ซึ่งผมก็มีแลปทอปอีกตัวแต่มันมันจะนอนอยู่ห้อง ผมก็ไม่อยากหยิบมา
+すべての出来事には意味がある。
+生きていくこととは、その意味を理解すること。
 
-จึงต้องใช้ wsl ในการทำ โดยขั้นแรกต้องหาไดเรกทอรี home ก่อน ซึ่งจะอยู่ที่ \\wsl$\Ubuntu\home\ชื่อผู้ใช้ และจากนั้นให้ไปพาธของ bb.sh ของผมอยู่ในไดรฟ C: ก็จะเป็น /mnt/c จากนั้นให้ลองรัน bb.sh หากไม่ได้ ก็กลับไปใช้แลปทอปที่ห้อง 
+"ทุกเรื่องราวที่เกิดขึ้นล้วนมีความหมาย
+และการมีชีวิตอยู่ต่อไปก็เพื่อที่จะเข้าใจความหมายเหล่านั้น" 201909080834]]></description>
+</item>
+<item>
+  <title>Memoro al 2019</title>
+  <link>https://warut92.github.io/blogo/html/200101okaziantajxoj.html</link>
+  <pubDate>พ., 01 ม.ค. 2020 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2020-01-01
 
-หยอก ๆ 5555
+1. Bonaj okazintaj aferoj ĉi-tiujare:
+Sukcesis trapasi la ekzamenon por fariĝi ŝtata instruisto, kaj moviĝis al nova urbo.
+2. Venkitaj problemoj:
+-
+3. Ricevitaj viv-lecionoj:
+- Multe. Temas pri laboro, kolego, instrumetodoj, vivelteno.
+4. Volas danki al:
+- Mia ĉefo, kiu multe helpis min, kiam mi moviĝis al nova urbo, kaj kiam mi malsaniĝis.
+5. Volas pardonpeti al:
+- Iu virino...
+6. La plej ĝuintaj aferoj:
+- Kiam mi vidis ŝian vizaĝon...
+7. Ridetigaj aferoj:
+- Multaj aferoj ridetigis min, ekzemple de miaj kolegoj, amikoj, lernantoj. Sed mi volas diri ke miaj lernantoj multe ridetigis min.
+8. Ŝatata filmo:
+- En tiu ĉi jaro mi spektis nur unu filmon en kinejo. Tamen la plej impresa ĉiama estas Hom Tong. Tiu ĉi filmo estas interesa artaĵo por mia instruado.
+9. Ŝatata libro:
+- Mi ne vere legis iun libron.
+10. La aferoj, kun kiuj vi ofte multe pagis:
+- Ho, temas pri fotiloj, filmoj kaj bieroj.
+11. La ŝatataj ciferoj por neniam gajnintaj lotoj:
+- Ĉu mi respondu...
+12. Se eblas reveni al pasinta tempo:
+- Mi ne enamiĝu kun iu virino.
+13. Sukcesoj:
+- Se temas pri mia instruado. Mi ne plene sukcesis. Tamen la afero ankoraŭ daŭre iri al la sukceso.
+14. Kiel iris la laboro?:
+- Ĥaosa.
+15. Kia sano?:
+- Ne tiom bone
+16. La plej soleca tempo:
+17. Ĉu vi igis iun malaperinta?:
+18. Via vivo similas al kiu filmo?:
+19. Resumu la vivon je 3 frazoj:
+20. Pri kio volas diri al vi mem?:
 
-จากนั้นถ้าลองรัน bb.sh แล้วแต่ไม่ได้ ให้แปลงข้อความใน bb.sh ด้วย sed -i 's/\r$//' bb.sh ผมลองแล้ว มันโอเค 
+202001011106]]></description>
+</item>
+<item>
+  <title>คนในโลก</title>
+  <link>https://warut92.github.io/blogo/html/210420คนในโลก.html</link>
+  <pubDate>อ., 20 เม.ย. 2021 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2021-04-20
 
-ส่วนตอนนี้ post หาก markdown ไม่ทำงาน ให้แปลงข้อความในไฟล์ Markdowm.pl ด้วย sed -i 's/\r$//' Markdown.pl
+คนในโลกเกิดมาไม่จำเป็นต้องเหมือนกันหมด
 
-เท่านี้ก็เป็นอันเสร็จ
- 
-ก่อนหน้านี้ผมใช้ Nano และ  Git Bash ผ่าน Terminal ใน VSCodium แต่มันมีปัญหาเรื่องอักษรภาษาไทย อักษรมักจะมีการบรรทัดเพี้ยน 
+การถกเถียงเรียนการเมือง/ศาสนา มันไม่มีจุดจบ แต่เราเข้าใจซึ่งกันและกัน
 
-ตอนนี้ใน wsl ผมใช้ vim แบบไม่มี config พิเศษอะไรเลย
+ยศใหญ่ สมองน้อย
 
-*เพราะว่ามันยุ่งยาก ผมจึงใช้มัน ชีวิตจะได้มีสีสัน ไม่น่าเบื่อ*]]></description>
+เนื้อหา ไม่สำคัญ เท่ากับสิ่งแวดล้อม??
+2021042020:32]]></description>
+</item>
+<item>
+  <title>พิมพ์ไปเรื่อย</title>
+  <link>https://warut92.github.io/blogo/html/211219พิมพ์ไปเรื่อย.html</link>
+  <pubDate>อา., 19 ธ.ค. 2021 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2021-12-19
+
+ในโลกนี้ผมได้รู้จักผู้หญิงคนนึง ผมหลงรักเธอ แต่เธอนั้นไม่ได้สนใจผม ไม่พูดกับผมเลย
+หวังเอาไว้ว่า ผมในอีกโลกหนึ่ง (ในโลกคู่ขนาน) คงได้พูดกับเธอ พูดเล่นกัน มีปฏิสัมพันธ์กันมากกว่านี้
+
+กลับมาอ่านก็ตลกดีนะ
+
+การที่เรามีความทุกข์ใจอะไรบางอย่างมันคงเป็นสีสันในชีวิต ดีใจบ้าง หัวเราะบ้าง ยิ้มบ้าง (แต่พักนี้ยิ้มไม่ค่อยออก ไม่รู้เป็นอะไร) เศร้าบ้าง นอยด์บ้าง ปน ๆ กันไปเป็นสีสันในชีวิต และคงเป็นสิ่งที่เราทุกคนต้องเจอหลีกเลี่ยงมันก็เป็นไปไม่ได้เลย แล้วถ้าเราเศร้าเรานอยด์ เราจะทำอย่างไรล่ะ ทางออกอย่างหนึ่ง (มันคงมรหลายทางนะ แต่ผมคิดไม่ออก) คือ ความคิดหรือทัศนคติ แนวทางของผมที่อาจจะดูแปลกไปสักหน่อย คือหวังเอาไว้ว่าในจักรวาลคู่ขนาน ผมได้หรือเป็นในสิ่งปรารถนา ในจักรวาลนี้ผมไม่มี แต่ในอีกจักรวาลหนึ่งผมมี นั้นเป็นทัศนคติที่ทำให้ผมรู้สึกดีรู้สึกมีความหวัง ... จะเขียนให้จบอย่างไร
+
+
+202112190948]]></description>
+</item>
+<item>
+  <title>วันนี้เป็นวันหยุด</title>
+  <link>https://warut92.github.io/blogo/html/211228วันนี้วันหยุด.html</link>
+  <pubDate>อ., 28 ธ.ค. 2021 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2021-12-28
+
+วันนี้วันที่ 28 เป็นวันหยุด อันที่จริงมันหยุดยาวทั้งอาทิตย์เลยแหละ 
+วันนี้ผมตื่นนอนสิ่งที่เริ่มทำอย่างแรกคือการออกไปปั่นจักรยานตอนเช้า อากาศดีมาก จากนั้นก็กินข้าวที่ร้านป้าหน้าโรงเรียน ซื้อมากินที่ห้แงนะไม่ได้กินที่ร้าน ต่อจากนั้นก็มาทำพจนานุกรมเอสเปรันโต มาใส่เลขประจำกลุ่มคำตาม baza radikaro oficiala เจออะไรแปลก ๆ เหมือนกัน เดี๋ยวค่อยมาเขียนละกัน ทำไปได้สักพักก็ง่วงนอน ก็เลยนอนตอนนั้นบ่ายละ ตื่นมาอีกทีก็บ่าย 2 ซื้อข้าวมากิน และก็กลับมาทำต่อโดยที่เปิด YouTube ไปด้วยทำไปด้วย ทำจนมืด รู้สึกว่ามือชา ๆ ไม่รู้เป็นเพราะอะไร จากยาที่ทาหัวหรือเปล่าหรือเป็นสัญญาณของโรค... ต่อไปก็นอน ก่อนนอนก็อ่านยูโทเปีย อ่านแล้วก็นะยูโทเปียจริง ๆ วาดฝันสวยงามไปมาก แต่ก็คิดว่าเป็นผลงานที่แปลกแวกแนวมาก ตอนนั้นเรายังอยู่ในอาณาจักรอยุธยากันอยู่เลย ...จบ... 2021122823:40]]></description>
+</item>
+<item>
+  <title>ความทรงจำในวัย 31 </title>
+  <link>https://warut92.github.io/blogo/html/240211.html</link>
+  <pubDate>อา., 11 ก.พ. 2024 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2024-02-11
+
+วันนี้ผมอยากจะมาบันทึกเรื่องราว ที่ผมสนใจ
+
+มันน่าสนใจจริง ๆ
+
+วันข้างหน้าเราจะเป็นอย่างไรนะ
+ตอนนี้อายุ 31
+
+อีกไม่อีกเดือนก็ 32
+รู้สึกว่าวันเวลามันผ่านไปสักพักละ
+
+พอกลับไปดูรูปเก่า ๆ รู้สึกเหมือนว่ามัน
+เกิดขึ้นไม่นานมานี้เอง
+
+แต่ที่จริงแล้ว มัน ก็ 10 กว่าปีเอง
+2009 
+
+ตอนนี้ 2024
+23 ปี ผ่านไปแล้วนะ
+
+มันช่างยาวนาน แต่ก็รู้สึกว่าเหมือนมันเพิ่งจะเกิดขึ้นเอง]]></description>
+</item>
+<item>
+  <title>บันทึกในเครื่องโน้ตบุ๊คนี้</title>
+  <link>https://warut92.github.io/blogo/html/251016.html</link>
+  <pubDate>พฤ., 16 ต.ค. 2025 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2025-10-16
+
+เป็นเรื่องง่าย ๆ ที่เราจะทำใจที่จะยอมรับความจริง
+อันที่จริงอาจจะเป็นเรื่องยาก คือมันขัดกับความต้องการจริง ๆ ที่อยู่ข้างใน
+แต่ประโยคข้างต้น อาจจะทำให้ผู้อ่านรู้อึดอัด ตกลงจะเอาอย่างไรกันแน่
+จะง่ายหรือจะยาก
+หรือ หรือ
+หรือ หรือ]]></description>
+</item>
+<item>
+  <title>Stranga Orkido</title>
+  <link>https://warut92.github.io/blogo/html/251020.html</link>
+  <pubDate>จ., 20 ต.ค. 2025 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2025-10-20
+
+Mi nun legas novelon de H.G. Wells. Temas pri iu orkido. Iu profesoro, kiu tre sxatas kolekti plantojn en propra vitra domo. Iutage li prenis strangan orkidon de iu malnova ne konata loko, kie oni povas acxeti malofte trovitajn plantojn el malproksima lando. Li pro lia sxatego de la strangaj plantoj zorgas tre bone la orkido acxetita. Iutage li iris al sia vitra domo sen teo servita de lia domzorgantino, do sxi iom pensas, ke eble li forgesis preni la teon pro tio ke li tro sxatas labori en la vitra domo, tamen post iom da tempo li tute vokis por la teo, cxar kutime li sxatas ankaux trinki la teon ecx fojfoje mi tro sxatas plantzorgadon, sed li neniam forgesis trinki teon. Sxi nu venis al la vitra domo pro kontroli kio vere okazas al li. Kiam sxi estis en la vitra domo li estis kusxanta sur la planko, kaj la orkido estis sur li kun sango!]]></description>
 </item>
 <item>
   <title>การติดตั้ง Markdown ใน bash blog</title>
-  <link>https://example.com/html/18929.html</link>
-  <pubDate>Sun, 09 Nov 2025 00:00:00 +0700</pubDate>
+  <link>https://warut92.github.io/blogo/html/251109-1.html</link>
+  <pubDate>อา., 09 พ.ย. 2025 00:00:00 +0700</pubDate>
   <description><![CDATA[DATE: 2025-11-09
 
 ตอนแรกผมก็งง ว่าเวลา รันคำสั่งสำหรับการสร้างบล็อกทำไมไฟล์แก้ไขไม่เป็น .md แต่เป็น .html ซึ่งมันก็จะลำบากนิดหน่อยในการพิมพ์แท็ก (จริง ๆ ก็ไม่อยากมาก แต่ .md มันสะดวกกว่ามาก เพียงแค่พิมพ์ไปตรง ๆ เลย ถ้าไม่เน้นข้อความอะไร) พอไปอ่านไฟล์ bb.sh เห็นว่าต้องมี Markdowm.pl เราก็เลยไปค้นมาในเน็ต [ mackyle/markdown](https://github.com/mackyle/markdown/blob/master/Markdown.pl) โหลดมาแล้วก็ใส่ในไดเรกทอรี จากนั้นตูม!! เรียบร้อย]]></description>
 </item>
 <item>
-  <title>บันทึก 33</title>
-  <link>https://example.com/html/24156.html</link>
-  <pubDate>Thu, 27 Nov 2025 00:00:00 +0700</pubDate>
-  <description><![CDATA[DATE: 2025-11-27
-
-บันทึก 33 หมายถึง ณ ขณะนี้กระผมมีอายุ 33 ดูตาตัวเลขแล้วก็ยังไม่แก่เท่าไหร่ แต่ก็เริ่มที่จะไม่เด็กแล้ว
-
-สิ่งที่รู้สึกตอนนี้ ทำอะไร ๆ ไม่สนุกเหมือนเคย หลายสิ่งที่หวังไว้ พอมาถึงตอนนี้ก็ทำให้เข้าใจว่า เราต้องทำใจ ยอมรับ กับความที่มันไม่เป็นไปตามที่คิด หลายครั้งที่ทำให้คิดว่าอุดมการณ์เป็นสิ่งที่ไม่เป็นความจริง มันก็จริงแหละ แต่ถ้าเราไม่มีมันเลย แล้วชีวิตมันจะเป็นอย่างไร
-]]></description>
-</item>
-<item>
   <title>สิ่งที่อยู่ตรงหน้า</title>
-  <link>https://example.com/html/24271.html</link>
-  <pubDate>Sun, 09 Nov 2025 00:00:00 +0700</pubDate>
+  <link>https://warut92.github.io/blogo/html/251109-2.html</link>
+  <pubDate>อา., 09 พ.ย. 2025 00:00:00 +0700</pubDate>
   <description><![CDATA[DATE: 2025-11-09
 
 ผมเองเคยว้าวกับเทคโนโลยีต่าง ๆ ไม่ว่าจะเป็นอินเตอร์เนต หน้าจอที่สัมผัสได้ หรือแม้แต่ไฟฟ้า มันช่างเป็นสิ่งที่มนุษย์ใช้ความสามารถที่มีอยู่ในเผ่าพันธ์ุของเรา (แม้ว่าจะไม่ได้มีทุกคนก็ตาม) มันช่างเป็นสิ่งวิเศษจริงแท้
@@ -125,9 +236,108 @@ Mi nun legas novelon de H.G. Wells. Temas pri iu orkido. Iu profesoro, kiu tre s
 สุดท้ายได้เรียนรู้เรื่องการปล่อยวาง สิ่งที่มันเกิดแล้ว ย่อมดี และแต่ละคนก็มีเรื่องที่เป็นทุกข์ใจกันทั้งนั้น แต่จะมากจะน้อยก็แต่ต่างกันไป สุดท้ายจริง ๆ อยู่กับความเป็นธรรมชาติให้มากหรือให้อยู่ในสมดุลที่สุดก็แล้วกัน (บอกตัวเองจ้า)]]></description>
 </item>
 <item>
+  <title>เกี่ยวกับ</title>
+  <link>https://warut92.github.io/blogo/html/251109.html</link>
+  <pubDate>อา., 09 พ.ย. 2025 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2025-11-09
+
+นายเพนกวิน คือใคร
+
+คือผู้ที่เขียนบล็อกนี้ ชอบหนังไซไฟ อ่านนิยายไซไฟบ้าง ชอบคอมพิวเตอร์ ชอบดนตรี
+
+ทำไมต้องนายเพนกวิน 
+
+เพราะ แพนกวินเป็นสัญลักษณ์ของลินุกซ์ ระบบปฏิบัติการคอมพิวเตอร์แบบเปิดโค้ด ที่ให้อิสระในการปรับแต่งมาก และผมก็ชอบเพนกวิน
+
+แค่นี้นะ ขอบใจที่เข้ามาเจอและอ่าน หวังว่าจะได้อะไรไปบ้าง]]></description>
+</item>
+<item>
+  <title>ช่วงเวลา</title>
+  <link>https://warut92.github.io/blogo/html/251110.html</link>
+  <pubDate>จ., 10 พ.ย. 2025 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2025-11-10
+
+มันคือช่วงเวลาของชีวิต ความสุขใจในช่วงวัยต่าง ๆ นั้นมันก็แตกต่างกัน
+
+วัยเด็กก็อย่าง วัยรุ่นก็อย่าง วัยทำงานก็อย่าง
+
+ความคิดบางอย่าง ความยึดมั่นในบางอย่าง มันก็แค่สิ่งที่เกิดขึ้นในช่วงนั้น ๆ
+
+เห็นแล้ว ก็อธิบายไปก็อาจจะเปล่าประโยชน์ 
+
+ต้องให้รู้ด้วยตัวเอง
+
+เท่านั้น]]></description>
+</item>
+<item>
+  <title>ปัญหาในการใช้</title>
+  <link>https://warut92.github.io/blogo/html/251123-1.html</link>
+  <pubDate>อา., 23 พ.ย. 2025 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2025-11-23
+
+เนื่องจากผมเขียน bashblog นี้ด้วย แลปทอปวินโดวน์ ซึ่งไฟล์ bash นั้นทำงานในลินุกซ์ ซึ่งผมก็มีแลปทอปอีกตัวแต่มันมันจะนอนอยู่ห้อง ผมก็ไม่อยากหยิบมา
+
+จึงต้องใช้ wsl ในการทำ โดยขั้นแรกต้องหาไดเรกทอรี home ก่อน ซึ่งจะอยู่ที่ \\wsl$\Ubuntu\home\ชื่อผู้ใช้ และจากนั้นให้ไปพาธของ bb.sh ของผมอยู่ในไดรฟ C: ก็จะเป็น /mnt/c จากนั้นให้ลองรัน bb.sh หากไม่ได้ ก็กลับไปใช้แลปทอปที่ห้อง 
+
+หยอก ๆ 5555
+
+จากนั้นถ้าลองรัน bb.sh แล้วแต่ไม่ได้ ให้แปลงข้อความใน bb.sh ด้วย sed -i 's/\r$//' bb.sh ผมลองแล้ว มันโอเค 
+
+ส่วนตอนนี้ post หาก markdown ไม่ทำงาน ให้แปลงข้อความในไฟล์ Markdowm.pl ด้วย sed -i 's/\r$//' Markdown.pl
+
+เท่านี้ก็เป็นอันเสร็จ
+ 
+ก่อนหน้านี้ผมใช้ Nano และ  Git Bash ผ่าน Terminal ใน VSCodium แต่มันมีปัญหาเรื่องอักษรภาษาไทย อักษรมักจะมีการบรรทัดเพี้ยน 
+
+ตอนนี้ใน wsl ผมใช้ vim แบบไม่มี config พิเศษอะไรเลย
+
+*เพราะว่ามันยุ่งยาก ผมจึงใช้มัน ชีวิตจะได้มีสีสัน ไม่น่าเบื่อ*]]></description>
+</item>
+<item>
+  <title>การโพสต์ย้อนหลัง</title>
+  <link>https://warut92.github.io/blogo/html/251123.html</link>
+  <pubDate>อา., 23 พ.ย. 2025 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2025-11-23
+
+เนื่องจากปกติแล้ว ผมเขียนบันทึกเรื่องราว ความคิด ความเห็น ด้วยคอมพิวเตอร์อยู่บ้าง โดยเขียนในรูปแบบของไฟล์ .txt
+
+ตอนนี้ผมต้องการที่จะย้ายไฟล์เหล่านั้นมาอยู่ในบล็อกของผม วิธีการคือ... การสร้างไฟล์ .md ในโฟลเดอร์ร่าง
+
+จากนั้นใช้คำสั่ง ./bb.sh post แล้วจะได้ไฟล์ .html มา ต่อจากนั้น ให้เป็นแก้ timestamp ที่คอมเมนต์อยู่ในไฟล์ html โดยเลือกเปลี่ยนปีเดือนวันเอา จากนั้นก็ ./bb.sh rebuild ก็เป็นอันเสร็จเรียบร้อย]]></description>
+</item>
+<item>
+  <title>นั่งหน้าคอม</title>
+  <link>https://warut92.github.io/blogo/html/251123นั่งหน้าคอม.html</link>
+  <pubDate>อา., 23 พ.ย. 2025 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2025-11-23
+
+วันนี้เป็นอีกวันหนึ่งที่ผมนั่งทำเขียนโปรแกรม อันที่จริงไม่เชิงเขียนโปรแกรม แต่เป็นการหาวิธีการที่จะทำให้โปรแกรมสร้างบล็อกทำงานได้อย่างที่ต้องการ ก่อนที่จะมาทำบล็อก ผมน่าจะใช้เวลาประมาณครึ่งชั่วโมงกับการตรวจพจนานุกรมที่ผมกำลังสร้างอยู่ ตั้งแต่ 13.00 จนถึง 16.00 ผมก็นึกได้ว่าเอาผ้าไปซักตั้งแต่เช้าแล้วแต่ยังไม่ได้ไปเอา ต้องตัดใจเลิกทำ ลุกขค้นจากเก้าอี้แล้วรีบไปเอาผ้ามาตาก พรุ่งนี้วันจันทร์อีกแล้ว ต้องทำงาน ชีวิตเริ่มวนลูป แต่สิ่งใหม่ ๆ ที่เริ่มรับรู้คือวันเวลามันเริ่มเดินเร็ว ต่อกับการเขียนโปรแกรมที่จริงไม่เชิงเขียน แต่สุดท้ายมีนก็ไม่สำเร็จ แล้วผลที่ได้แถมมาจากการหาวิธีการแก้ไขคือ ปวดหลัง ปวดคอ หน้าชาอีกตั้งหาก ไม่มีอะไรดีเลย ต่อไปต้องจำกัดเวลาการใช้คอมพิวเตอร์]]></description>
+</item>
+<item>
+  <title>บันทึก 33</title>
+  <link>https://warut92.github.io/blogo/html/251127.html</link>
+  <pubDate>พฤ., 27 พ.ย. 2025 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2025-11-27
+
+บันทึก 33 หมายถึง ณ ขณะนี้กระผมมีอายุ 33 ดูตาตัวเลขแล้วก็ยังไม่แก่เท่าไหร่ แต่ก็เริ่มที่จะไม่เด็กแล้ว
+
+สิ่งที่รู้สึกตอนนี้ ทำอะไร ๆ ไม่สนุกเหมือนเคย หลายสิ่งที่หวังไว้ พอมาถึงตอนนี้ก็ทำให้เข้าใจว่า เราต้องทำใจ ยอมรับ กับความที่มันไม่เป็นไปตามที่คิด หลายครั้งที่ทำให้คิดว่าอุดมการณ์เป็นสิ่งที่ไม่เป็นความจริง มันก็จริงแหละ แต่ถ้าเราไม่มีมันเลย แล้วชีวิตมันจะเป็นอย่างไร]]></description>
+</item>
+<item>
+  <title>การใช้ Git ผ่าน Terminal</title>
+  <link>https://warut92.github.io/blogo/html/251128-1.html</link>
+  <pubDate>ศ., 28 พ.ย. 2025 00:00:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2025-11-28
+
+1. เมื่อเพิ่มไฟล์ใหม่ ให้ใช้คำสั่ง `git add .`
+2. จากนั้นให้ดูสถานะว่าเป็นอย่างไรด้วย `git status`
+3. จากนั้นบันทึกข้อความสำหรับการส่งเข้า git ด้วย `git commit -m 'ข้อความ'`
+4. บันทึกเข้า git ด้วย `git push` เทอร์มินอลจะถามชื่อผู้ใช้กับรหัสผ่าน ถ้าถูกต้องก็เป็นอันเสร็จ]]></description>
+</item>
+<item>
   <title>เย็นวันศุกร์</title>
-  <link>https://example.com/html/251128.html</link>
-  <pubDate>Fri, 28 Nov 2025 00:00:00 +0700</pubDate>
+  <link>https://warut92.github.io/blogo/html/251128.html</link>
+  <pubDate>ศ., 28 พ.ย. 2025 00:00:00 +0700</pubDate>
   <description><![CDATA[DATE: 2025-11-28
 
 ตอนนี้เป็นเวลาประมาณ 6.30 ของเย็นวันศุกร์ ผมยังอยู่ที่ทำงาน แต่คนอื่น ๆ กลับบ้านกันไปหมดแล้ว ที่นี้ตอนนี้เงียบมาก
@@ -137,9 +347,9 @@ Mi nun legas novelon de H.G. Wells. Temas pri iu orkido. Iu profesoro, kiu tre s
 ในวันเสาร์กับอาทิตย์ มาดูสิว่าจะเป็นอย่างไร ]]></description>
 </item>
 <item>
-  <title>bashblog ของกระผม</title>
-  <link>https://example.com/html/251130-1.html</link>
-  <pubDate>Sun, 30 Nov 2025 17:05:46 +0700</pubDate>
+  <title>bashblog ของกระผม</title>
+  <link>https://warut92.github.io/blogo/html/251130-1.html</link>
+  <pubDate>อา., 30 พ.ย. 2025 21:22:44 +0700</pubDate>
   <description><![CDATA[
 ก่อนหน้าไม่นานี้ผมได้ลองใช้ bashblog ของ [cfenollosa](https://github.com/cfenollosa/bashblog) อย่างจริงจังในการเขียนบล็อก แต่ปรากฏว่าเกิดปัญหาในการสร้างแท็ก ซึ่งผมเองพยายามในการแก้ไข แต่ก็ไม่สำเร็จ 
 ดังนั้นกระผมจึงสร้างไฟล์ bash ของผมเองเลย โดยใช้ AI ในการช่วยเขียน แต่ทั้งนี้ทั้งนั้นผมยังชอบ basblog ของ cfenollosa โดยกระผมมีการปรับดังนี้
@@ -162,14 +372,15 @@ Mi nun legas novelon de H.G. Wells. Temas pri iu orkido. Iu profesoro, kiu tre s
 สร้าง rss.xml
 ```
 
-สิ่งที่จะทำต่อไปคือ การจัดระเบียบให้สวยงาม เพิ่มลิงก์ของแท็กทั้งหมด หน้าอ่านทั้งหมด และการเรียงเป็นเดือนที่ชัดเจนกว่านี้
-]]></description>
+สิ่งที่จะทำต่อไปคือ การจัดระเบียบให้สวยงาม เพิ่มลิงก์ของแท็กทั้งหมด หน้าอ่านทั้งหมด และการเรียงเป็นเดือนที่ชัดเจนกว่านี้]]></description>
 </item>
 <item>
-  <title>ตัวอย่าง Markdown</title>
-  <link>https://example.com/html/251130-2.html</link>
-  <pubDate>Sun, 30 Nov 2025 16:14:48 +0700</pubDate>
+  <title>ตัวอย่าง Markdown</title>
+  <link>https://warut92.github.io/blogo/html/251130-2.html</link>
+  <pubDate>อา., 30 พ.ย. 2025 22:05:30 +0700</pubDate>
   <description><![CDATA[
+อันนี้เป็นตัวอย่าง markdown ที่กระผมหามาจากอินเตอร์เน็ต เพื่อที่จะลองทำการแปลงเป็น html ด้วย markdown-it
+
 # h1 Heading 8-)
 ## h2 Heading
 ### h3 Heading
@@ -266,77 +477,24 @@ Some text to show that the reference links can follow later.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
-]]></description>
+[link text itself]: http://www.reddit.com]]></description>
 </item>
 <item>
-  <title>อวกาศน่าสนใจ</title>
-  <link>https://example.com/html/251130.html</link>
-  <pubDate>Wed, 22 Oct 1997 00:00:00 +0700</pubDate>
-  <description><![CDATA[DATE: 1997-10-22
+  <title>การติดตั้ง Markdown-it</title>
+  <link>https://warut92.github.io/blogo/html/251130-3.html</link>
+  <pubDate>อา., 30 พ.ย. 2025 21:45:31 +0700</pubDate>
+  <description><![CDATA[
+เนื่องจากผมได้สร้างไฟล์ bash สำหรับการสร้างบล็อกใหม่ และได้ใช้โปรแกรมแปลง markdown เป็น html ใหม่ด้วย จาก Markdown.pl เป็น markdown-it จาก node.js 
 
-**เทค**โนโลยีอวกาศเป็นก้าวสำคัญที่ทำให้มนุษย์สามารถสำรวจจักรวาลได้กว้างไกลยิ่งขึ้น ตั้งแต่การส่งดาวเทียมดวงแรกไปจนถึงภารกิจสำรวจดาวอังคาร 
+มาดูว่าวิธีการติดตั้งเป็นอย่างไร
+1. `sudo apt update`
+1. `sudo apt install nodejs npm`
+1. `npm install markdown-it`
 
-ทุกความก้าวหน้าช่วยเพิ่มความเข้าใจเกี่ยวกับกำเนิดโลกและระบบสุริยะ นอกจากนี้เทคโนโลยีอวกาศยังนำประโยชน์กลับมาสู่ชีวิตประจำวัน เช่น การสื่อสารผ่านดาวเทียม การพยากรณ์อากาศ และระบบนำทาง GPS ความก้าวหน้าเหล่านี้พิสูจน์ให้เห็นว่าการลงทุนด้านอวกาศไม่เพียงสร้างความรู้ใหม่ แต่ยังช่วยพัฒนาคุณภาพชีวิตของมนุษย์ทั่วโลกอย่างต่อเนื่อง
-]]></description>
-</item>
-<item>
-  <title>เกี่ยวกับ</title>
-  <link>https://example.com/html/4157.html</link>
-  <pubDate>Sun, 09 Nov 2025 00:00:00 +0700</pubDate>
-  <description><![CDATA[DATE: 2025-11-09
+หรือ
+1. `sudo apt install python3-markdown-it`
 
-นายเพนกวิน คือใคร
-
-คือผู้ที่เขียนบล็อกนี้ ชอบหนังไซไฟ อ่านนิยายไซไฟบ้าง ชอบคอมพิวเตอร์ ชอบดนตรี
-
-ทำไมต้องนายเพนกวิน 
-
-เพราะ แพนกวินเป็นสัญลักษณ์ของลินุกซ์ ระบบปฏิบัติการคอมพิวเตอร์แบบเปิดโค้ด ที่ให้อิสระในการปรับแต่งมาก และผมก็ชอบเพนกวิน
-
-แค่นี้นะ ขอบใจที่เข้ามาเจอและอ่าน หวังว่าจะได้อะไรไปบ้าง
-]]></description>
-</item>
-<item>
-  <title>บันทึกในเครื่องโน้ตบุ๊คนี้</title>
-  <link>https://example.com/html/5577.html</link>
-  <pubDate>Thu, 16 Oct 2025 00:00:00 +0700</pubDate>
-  <description><![CDATA[DATE: 2025-10-16
-
-เป็นเรื่องง่าย ๆ ที่เราจะทำใจที่จะยอมรับความจริง
-อันที่จริงอาจจะเป็นเรื่องยาก คือมันขัดกับความต้องการจริง ๆ ที่อยู่ข้างใน
-แต่ประโยคข้างต้น อาจจะทำให้ผู้อ่านรู้อึดอัด ตกลงจะเอาอย่างไรกันแน่
-จะง่ายหรือจะยาก
-หรือ หรือ
-หรือ หรือ
-]]></description>
-</item>
-<item>
-  <title>ความทรงจำในวัย 31 </title>
-  <link>https://example.com/html/87163.html</link>
-  <pubDate>Sun, 11 Feb 2024 00:00:00 +0700</pubDate>
-  <description><![CDATA[DATE: 2024-02-11
-
-วันนี้ผมอยากจะมาบันทึกเรื่องราว ที่ผมสนใจ
-
-มันน่าสนใจจริง ๆ
-
-วันข้างหน้าเราจะเป็นอย่างไรนะ
-ตอนนี้อายุ 31
-
-อีกไม่อีกเดือนก็ 32
-รู้สึกว่าวันเวลามันผ่านไปสักพักละ
-
-พอกลับไปดูรูปเก่า ๆ รู้สึกเหมือนว่ามัน
-เกิดขึ้นไม่นานมานี้เอง
-
-แต่ที่จริงแล้ว มัน ก็ 10 กว่าปีเอง
-2009 
-
-ตอนนี้ 2024
-23 ปี ผ่านไปแล้วนะ
-
-มันช่างยาวนาน แต่ก็รู้สึกว่าเหมือนมันเพิ่งจะเกิดขึ้นเอง]]></description>
+เท่านี้เป็นอันเสร็จสิ้น]]></description>
 </item>
 </channel>
 </rss>

@@ -10,7 +10,7 @@ html {
 
 body,
 * {
-    font-family: 'Tlwg Typewriter', monospace;
+    font-family: Courier, monospace, 'Tlwg Typewriter';
     color: white;
     background-color: rgb(34, 33, 41);
 }
