@@ -1,0 +1,29 @@
+:root {
+    --main-txt-color: green;
+  }
+  
+
+body, * {
+    font-family: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    color: white;
+    background-color: rgb(34, 33, 41);
+}
+
+h1, h2 {
+    color: var(--main-txt-color);
+}
+
+img[src$='#img-small'] {
+    width: 150px;
+    border-style: solid;
+    border-color:  var(--main-txt-color);
+}
+
+img {
+    border-style: solid;
+    border-color: var(--main-txt-color);
+}
+
+.center {
+    align-tracks: center;
+}

@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="css/mystyle.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="ติดตามบล็อกนี้..." href="feed.rss" />
+<title>ดอกไม้ผลิบาน ใบไม้ร่วงโรย &mdash; Posts tagged "โปรแกรม"</title>
+</head><body>
+<div id="divbodyholder">
+<div class="headerholder"><div class="header">
+<div id="title">
+<h1 class="nomargin"><a class="ablack" href="http://warut92.github.io/blogo/bb/index.html">ดอกไม้ผลิบาน ใบไม้ร่วงโรย</a></h1>
+<div id="description">เขียนเรื่อยเปื่อย...</div>
+</div></div></div>
+<div id="divbody"><div class="content">
+<h3><a class="ablack" href="12125.html">
+การใช้ Git ผ่าน Terminal
+</a></h3>
+<!-- bashblog_timestamp: #202511280958.24# -->
+<div class="subtitle">25-11-28 &mdash; 
+นายเพนกวิน
+</div>
+<!-- text begin -->
+
+<ol>
+<li>เมื่อเพิ่มไฟล์ใหม่ ให้ใช้คำสั่ง <code>git add .</code></li>
+<li>จากนั้นให้ดูสถานะว่าเป็นอย่างไรด้วย <code>git status</code></li>
+<li>จากนั้นบันทึกข้อความสำหรับการส่งเข้า git ด้วย <code>git commit -m 'ข้อความ'</code></li>
+<li>บันทึกเข้า git ด้วย <code>git push</code> เทอร์มินอลจะถามชื่อผู้ใช้กับรหัสผ่าน ถ้าถูกต้องก็เป็นอันเสร็จ</li>
+</ol>
+
+<p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
+
+<!-- text end -->
+<h3><a class="ablack" href="17200.html">
+ปัญหาในการใช้
+</a></h3>
+<!-- bashblog_timestamp: #202511231523.36# -->
+<div class="subtitle">25-11-23 &mdash; 
+นายเพนกวิน
+</div>
+<!-- text begin -->
+
+<p>เนื่องจากผมเขียน bashblog นี้ด้วย แลปทอปวินโดวน์ ซึ่งไฟล์ bash นั้นทำงานในลินุกซ์ ซึ่งผมก็มีแลปทอปอีกตัวแต่มันมันจะนอนอยู่ห้อง ผมก็ไม่อยากหยิบมา</p>
+
+<p>จึงต้องใช้ wsl ในการทำ โดยขั้นแรกต้องหาไดเรกทอรี home ก่อน ซึ่งจะอยู่ที่ \wsl$\Ubuntu\home\ชื่อผู้ใช้ และจากนั้นให้ไปพาธของ bb.sh ของผมอยู่ในไดรฟ C: ก็จะเป็น /mnt/c จากนั้นให้ลองรัน bb.sh หากไม่ได้ ก็กลับไปใช้แลปทอปที่ห้อง </p>
+
+<p>หยอก ๆ 5555</p>
+
+<p>จากนั้นถ้าลองรัน bb.sh แล้วแต่ไม่ได้ ให้แปลงข้อความใน bb.sh ด้วย sed -i 's/\r$//' bb.sh ผมลองแล้ว มันโอเค </p>
+
+<p>ส่วนตอนนี้ post หาก markdown ไม่ทำงาน ให้แปลงข้อความในไฟล์ Markdowm.pl ด้วย sed -i 's/\r$//' Markdown.pl</p>
+
+<p>เท่านี้ก็เป็นอันเสร็จ</p>
+
+<p>ก่อนหน้านี้ผมใช้ Nano และ  Git Bash ผ่าน Terminal ใน VSCodium แต่มันมีปัญหาเรื่องอักษรภาษาไทย อักษรมักจะมีการบรรทัดเพี้ยน </p>
+
+<p>ตอนนี้ใน wsl ผมใช้ vim แบบไม่มี config พิเศษอะไรเลย</p>
+
+<p><em>เพราะว่ามันยุ่งยาก ผมจึงใช้มัน ชีวิตจะได้มีสีสัน ไม่น่าเบื่อ</em></p>
+
+<p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
+
+<!-- text end -->
+<h3><a class="ablack" href="10495.html">
+การโพสต์ย้อนหลัง
+</a></h3>
+<!-- bashblog_timestamp: #202511231429.07# -->
+<div class="subtitle">25-11-23 &mdash; 
+นายเพนกวิน
+</div>
+<!-- text begin -->
+
+<p>เนื่องจากปกติแล้ว ผมเขียนบันทึกเรื่องราว ความคิด ความเห็น ด้วยคอมพิวเตอร์อยู่บ้าง โดยเขียนในรูปแบบของไฟล์ .txt</p>
+
+<p>ตอนนี้ผมต้องการที่จะย้ายไฟล์เหล่านั้นมาอยู่ในบล็อกของผม วิธีการคือ... การสร้างไฟล์ .md ในโฟลเดอร์ร่าง</p>
+
+<p>จากนั้นใช้คำสั่ง ./bb.sh post แล้วจะได้ไฟล์ .html มา ต่อจากนั้น ให้เป็นแก้ timestamp ที่คอมเมนต์อยู่ในไฟล์ html โดยเลือกเปลี่ยนปีเดือนวันเอา จากนั้นก็ ./bb.sh rebuild ก็เป็นอันเสร็จเรียบร้อย</p>
+
+<p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
+
+<!-- text end -->
+<h3><a class="ablack" href="18929.html">
+การติดตั้ง Markdown ใน bash blog
+</a></h3>
+<!-- bashblog_timestamp: #202511091329.30# -->
+<div class="subtitle">25-11-09 &mdash; 
+นายเพนกวิน
+</div>
+<!-- text begin -->
+
+<p>ตอนแรกผมก็งง ว่าเวลา รันคำสั่งสำหรับการสร้างบล็อกทำไมไฟล์แก้ไขไม่เป็น .md แต่เป็น .html ซึ่งมันก็จะลำบากนิดหน่อยในการพิมพ์แท็ก (จริง ๆ ก็ไม่อยากมาก แต่ .md มันสะดวกกว่ามาก เพียงแค่พิมพ์ไปตรง ๆ เลย ถ้าไม่เน้นข้อความอะไร) พอไปอ่านไฟล์ bb.sh เห็นว่าต้องมี Markdowm.pl เราก็เลยไปค้นมาในเน็ต <a href="https://github.com/mackyle/markdown/blob/master/Markdown.pl"> mackyle/markdown</a> โหลดมาแล้วก็ใส่ในไดเรกทอรี จากนั้นตูม!! เรียบร้อย</p>
+
+<p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a></p>
+
+<!-- text end -->
+<h3><a class="ablack" href="14655.html">
+การทดลอง
+</a></h3>
+<!-- bashblog_timestamp: #202511090755.08# -->
+<div class="subtitle">25-11-09 &mdash; 
+นายเพนกวิน
+
+</div>
+<!-- text begin -->
+
+<p>กระผมต้องการทดลองสร้างบล็อกจากไฟล์ bash อันที่จริงผมรู้จักกับ bash blog มานานแล้ว น่าจะประมาณ 3-4 ปี ที่ผมเริ่มใช้ลินุกซ์ (เดียวผมจะมาเขียนว่าทำ
+ไม่ผมถึงมาใช้ลินุกซ์ได้) ซึ่งเป็นการใช้ไฟล์ bash สร้างบล็อก โดยมีฟังก์ชันที่น่าสนใจคือ การสร้างแท็กและหน้าสำหรับแท็กนั้น ๆ ที่จริงผมก็มีบล็อกที่สามารถสร้างแท็กได้
+ง่ายกว่าด้วย (ของ Google) แต่เราก็อยากจะสร้างอะไร ๆ ที่ท้าทายหน่อย และบล็อกนี้จะเป็นการเขียนเกี่ยวกับเรื่องสัพเพเหระ เรื่องทั้วไป ข้อคิดที่คิดได้ </p>
+
+<p>สิ่งที่ผมจะปรับแต่งในไฟล์ bash คือ
+1. เปลี่ยนรูปแบบวันที่เป็นแบบตัวเลข โดยเรียงจาก ปี เดือน วัน เพราะผมชอบแบบนี้
+2. แปลข้อความในแท็ก a ให้เป็นภาษาไทย
+3. ตกแต่งหน้าตารูปลักษณ์ ด้วย css ซึ่งกำลังทำไปแบบเรื่อย ๆ เพราะต้องค่อย ๆ ตกแต่ง
+</p>
+
+<p>Tags: <a href='tag_โปรแกรม.html'>โปรแกรม</a>, <a href='tag_การเขียน.html'>การเขียน</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+</div>
+<div id="footer">CC by-nc-nd <a href="4157.html">นายเพนกวิน</a> &mdash; <a href="mailto:"></a><br/>
+สร้างด้วย <a href="https://github.com/cfenollosa/bashblog">bashblog</a>; ไฟล์ <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">bash</a> 1 ไฟล์ใช้สร้างบล็อกทั้งหมดนี้</div>
+</div></div>
+</body></html>
