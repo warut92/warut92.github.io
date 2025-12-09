@@ -1,7 +1,7 @@
 @import 'https://cdn.jsdelivr.net/gh/lazywasabi/thai-web-fonts@7/fonts/TlwgTypewriter/TlwgTypewriter.css';
 
 :root {
-    --main-txt-color: rgb(116, 255, 116);
+    --main-txt-color: rgb(81, 180, 81);
 }
 
 html {
@@ -32,6 +32,7 @@ img[src$='#img-small'] {
 }
 
 img {
+    width: 500px;
     border-style: solid;
     border-color: var(--main-txt-color);
 }
