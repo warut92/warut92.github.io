@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="../stilo.css">
+Miaj videoludoj
+DATE: 2024-06-16
 
-# Miaj videoludoj
 Ekde la teknologio disvolviĝis, la geknabo alkutimiĝis ludi kun ili. Unu el ili kompreneble estas videoludoj. Je mia knab-aĝo mi bone memoras pri mia patro, kiu ŝatis frekventi al dumanaĵ-vendejo, li iam aĉetis por mi sen mia peto aŭ deziro la videoludilo kun ruĝa kaj ora koloroj, tio estis videoludilo FAMICOM de tiam mi ekkonis la teknologion de videoludoj kaj krekis kun ĝi, kiam la unua aparato rompiĝis (Mi ne bone meomoras, kial ĝi rompiĝis) post iom da tempo (mi ne bone memoras, kiom da monatoj aŭ jaroj), mia patro denove aĉeti ĝin, la novan, tamen estis la dumanaĵo.
 
 ![FAMICOM](https://3.bp.blogspot.com/-MsAx__Bx04Y/VabLHH2a2dI/AAAAAAAA33Q/d1UPRWAQZOM/w1200-h630-p-k-no-nu/original.jpg)
@@ -45,3 +45,5 @@ Novaj videoludoj, kiujn mi neniam ludis antaŭe.
 1. Metroid
 1. Metroid Rogue Dawn
 2. Kanshakudama Nage Kantarou no Toukaidou Gojuusan Tsugi
+
+[ย้อนหลัง]

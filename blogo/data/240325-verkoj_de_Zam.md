@@ -1,5 +1,6 @@
-<link rel="stylesheet" href="../stilo.css">
-# Verkoj de Zamenhof
+Verkoj de Zamenhof
+DATE: 2024-03-25
+
 Unua Libro (Esperantlingvaj partoj) 1887  Z
 
 Originala Verkaro kaj rilataj tekstoj 1887–1917  Z
@@ -72,3 +73,5 @@ Fabeloj de Andersen 2 1916  Z
 Fabeloj de Andersen 3 1916  Z
 
 Fabeloj de Andersen 4 1916  Z
+
+[ย้อนหลัง], [Esperanto]

@@ -51,3 +51,8 @@ code {
     font-family: 'Courier New', Courier, monospace;
     background-color: brown;
 }
+
+.libroj {
+    height: 200px;
+    width: auto;
+}

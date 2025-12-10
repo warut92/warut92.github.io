@@ -10,8 +10,9 @@ markdown_to_html() {
 }
 
 BLOG_NAME="ดอกไม้ผลิบาน ใบไม้ร่วงโรย"
+BLOG_AUTHOR="นายเพนกวิน"
 BLOG_DESCRIPTION="เขียนเรี่อยเปื่อย..."
-footer="<a href="./tags.html">ดูแท็กทั้งหมด</a><br>CC by-nc-nd - นายเพนกวิน - <a href="rss.xml">ติดตามบล็อก</a><br/>บล็อกนี้สร้างด้วยไฟล์ bash ไฟล์เดียว จากแรงบันดาลใจจาก <a href="https://github.com/cfenollosa/bashblog">bashblog</a>"
+footer="<a href="./tags.html">ดูแท็กทั้งหมด</a><br>CC by-nc-nd - $BLOG_AUTHOR - <a href="rss.xml">ติดตามบล็อก</a><br/>บล็อกนี้สร้างด้วยไฟล์ bash ไฟล์เดียว จากแรงบันดาลใจจาก <a href="https://github.com/cfenollosa/bashblog">bashblog</a>"
 BLOG_URL="https://warut92.github.io/blogo/html"
 
 DATA_DIR="./data"
@@ -35,6 +36,8 @@ RSS_ITEMS=""
 ###########################################
 for file in "$DATA_DIR"/*.md; do
     [ -e "$file" ] || continue
+    
+    CURRENT_MD_FILE="$file" 
 
     filename=$(basename "$file" .md)
     output="$OUT_DIR/$filename.html"
@@ -77,7 +80,7 @@ for file in "$DATA_DIR"/*.md; do
         echo "<html><head><meta charset='utf-8'><title>$title</title><link rel=\"stylesheet\" href=\"../css/mystyle.css\" type=\"text/css\" /></head><body>"
         echo "<a href=\"./index.html\">[หน้าหลัก]</a>"
         echo "<h1>$title</h1>"
-        echo "<p><i>Date: $post_date</i></p>"
+        echo "<p>Date: $post_date - $BLOG_AUTHOR</p>"
         echo "<hr>"
         markdown-it "$tmp_md"
         echo "<hr>"
@@ -119,7 +122,7 @@ done
 ###########################################
 # สร้าง index.html แบบเรียงวันที่ (ใหม่ → เก่า)
 ###########################################
-echo "<html><head><meta charset='utf-8'><title>$BLOG_NAME</title><link rel="stylesheet" href="../css/mystyle.css" type="text/css" /></head><body><h1>$BLOG_NAME</h1><p>$BLOG_DESCRIPTION</p><ul>" > "$INDEX_FILE"
+echo "<html><head><meta charset='utf-8'><title>$BLOG_NAME</title><link rel="stylesheet" href="../css/mystyle.css" type="text/css" /></head><body><h1>$BLOG_NAME</h1><p>$BLOG_DESCRIPTION</p><ol>" > "$INDEX_FILE"
 
 sorted_posts=$(printf "%s\n" "${POST_LIST[@]}" | sort -r)
 
@@ -127,7 +130,7 @@ while IFS="|" read -r date file title; do
     echo "<li><a href='$file'>$title</a> - $date</li>" >> "$INDEX_FILE"
 done <<< "$sorted_posts"
 
-echo "</ul><hr><center>$footer</center>" >> "$INDEX_FILE"
+echo "</ol><hr><center>$footer</center>" >> "$INDEX_FILE"
 
 ###########################################
 # สร้างหน้าแท็ก
@@ -136,6 +139,21 @@ echo "<html><head><meta charset='utf-8'><title>$BLOG_NAME</title><link rel="styl
 
 for tag in "${!TAG_MAP[@]}"; do
     tag_slug=$(echo "$tag" | tr ' ' '_' )
+
+    if [[ -z "$tag_slug" ]]; then
+        echo "ERROR: tag_slug ว่าง! tag='$tag'"
+        echo "เกิดในไฟล์: $0 (Line: ${LINENO})"
+        echo "มาจากไฟล์ต้นทาง: $CURRENT_MD_FILE"
+        continue
+    fi
+
+    if ! [[ "$tag_slug" =~ ^.+$ ]]; then
+        echo "ERROR: tag_slug ผิดรูปแบบ → '$tag_slug'"
+        echo "เกิดในไฟล์: $0 (Line: ${LINENO})"
+        echo "มาจากไฟล์ต้นทาง: $CURRENT_MD_FILE"
+        continue
+    fi
+
     tag_page="$OUT_DIR/tags_$tag_slug.html"
 
     echo "<li><a href='tags_$tag_slug.html'>[$tag]</a></li>" >> "$TAG_FILE"

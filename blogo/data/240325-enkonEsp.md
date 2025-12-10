@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="../stilo.css">
-# แนะนำภาษาเอสเปรันโตโดยนายวรุฒ สำหรับคนทั่วไป
+แนะนำภาษาเอสเปรันโต สำหรับคนทั่วไป
+DATE: 2024-03-25
 
 # เอสเปรันโตคือ
 
@@ -58,4 +58,6 @@ domo บ้าน, dometo บ้านหลังเล็ก ๆ
 
 # ภาษาเอสเปรันโตในปัจจุบัน
 
-[^1]: Mattos, Geraldo, "La deveno de Esperanto", Fonto 1987
+^1: Mattos, Geraldo, "La deveno de Esperanto", Fonto 1987
+
+[ย้อนหลัง], [โปรแกรม], [Esperanto]
