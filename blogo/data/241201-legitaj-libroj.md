@@ -26,6 +26,6 @@ Mi estas kolektanto de libroj, en mia hejmo multas la libroj, pri muziko, lingvo
 <img class="libroj" src="../libroj/libro15.jpg" alt="paŝoj al plena posedo">  
 <img class="libroj" src="../libroj/libro16.jpg" alt="2137">  
 
-2025-12-10 22:58
+#2025-12-10 22:58
 
 [ย้อนหลัง], [หนังสือที่อ่าน]
