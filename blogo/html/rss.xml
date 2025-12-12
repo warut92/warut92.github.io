@@ -1161,5 +1161,18 @@ Some text to show that the reference links can follow later.
 อย่างไรก็ดี ผมมีความคิดว่า ภาษาเป็นสิ่งหนึ่งที่ทำให้เราได้เรียนรู้สิ่งใหม่ ๆ และเป็นสิ่งที่เหมือนกำแพงกั้นความรู้อีกด้วย
 ]]></description>
 </item>
+<item>
+  <title>การแก้ปัญหาในข้อผิดพลาด</title>
+  <link>https://warut92.github.io/blogo/html/251212.html</link>
+  <pubDate>Fri, 12 Dec 2025 13:48:00 +0700</pubDate>
+  <description><![CDATA[DATE: 2025-12-12 13:48
+
+ในการเรียกใช้งานคำสั่งของไฟล์ bash หากเกิดข้อผิดพลาด ดังนี้
+`/usr/bin/env: ‘bash\r’: No such file or directory`
+`/usr/bin/env: use -[v]S to pass options in shebang lines`
+
+ให้ใช้คำสั่ง
+`sed -i 's/\r$//' <ชื่อไฟล์>.sh`]]></description>
+</item>
 </channel>
 </rss>
