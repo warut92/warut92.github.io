@@ -10,7 +10,7 @@ Bonvenon al la retejo! > [taja versio](index_th.md)
 - [Pri mi](mi.md)
 - [Hobiaro](hobiaro.md)
 - [Esperanto](./eo)
-- [Mia blogo](./blogo)
+- [Mia blogo](./blog/html/index.html)
 
 ---
 *pensu simple, vivu pace!*

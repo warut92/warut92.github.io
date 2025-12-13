@@ -4,15 +4,12 @@
     --main-txt-color: rgb(81, 180, 81);
 }
 
-html {
-    margin: 30px;
-}
-
 body,
 * {
     font-family: Courier, monospace, 'Tlwg Typewriter';
     color: white;
     background-color: rgb(34, 33, 41);
+    margin: 30px;
 }
 
 h1,
