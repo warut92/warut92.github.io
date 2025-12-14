@@ -9,11 +9,11 @@ markdown_to_html() {
     markdown-it "$src" > "$out"
 }
 
-BLOG_NAME="ดอกไม้ผลิบาน ใบไม้ร่วงโรย"
+BLOG_NAME="ปูมของข้าพเจ้า"
 BLOG_AUTHOR="นายเพนกวิน"
-BLOG_DESCRIPTION="เขียนเรี่อยเปื่อย..."
+BLOG_DESCRIPTION="ดอกไม้ผลิบาน ใบไม้ร่วงโรย เขียนเรี่อยเปื่อย..."
 footer="<a href="./tags.html">ดูแท็กทั้งหมด</a><br>CC by-nc-nd - $BLOG_AUTHOR - <a href="rss.xml">ติดตามบล็อก</a><br/>บล็อกนี้สร้างด้วยไฟล์ bash ไฟล์เดียว จากแรงบันดาลใจจาก <a href="https://github.com/cfenollosa/bashblog">bashblog</a>"
-BLOG_URL="https://warut92.github.io/blogo/html"
+BLOG_URL="https://warut92.github.io/blog/html"
 
 DATA_DIR="./data"
 OUT_DIR="./html"
@@ -77,7 +77,7 @@ for file in "$DATA_DIR"/*.md; do
 
     # แปลง Markdown → HTML แล้ว redirect ลง output
     {
-        echo "<html><head><meta charset='utf-8'><title>$title</title><link rel=\"stylesheet\" href=\"../css/mystyle.css\" type=\"text/css\" /></head><body>"
+        echo "<html><head><meta charset='utf-8'> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"> <title>$title</title><link rel=\"stylesheet\" href=\"../css/mystyle.css\" type=\"text/css\" /></head><body>"
         echo "<a href=\"./index.html\">[หน้าหลัก]</a>"
         echo "<h1>$title</h1>"
         echo "<p>Date: $post_date - $BLOG_AUTHOR</p>"
@@ -122,7 +122,7 @@ done
 ###########################################
 # สร้าง index.html แบบเรียงวันที่ (ใหม่ → เก่า)
 ###########################################
-echo "<html><head><meta charset='utf-8'><title>$BLOG_NAME</title><link rel="stylesheet" href="../css/mystyle.css" type="text/css" /></head><body><h1>$BLOG_NAME</h1><p>$BLOG_DESCRIPTION</p><ol>" > "$INDEX_FILE"
+echo "<html><head><meta charset='utf-8'><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title>$BLOG_NAME</title><link rel="stylesheet" href="../css/mystyle.css" type="text/css" /></head><body><h1>$BLOG_NAME</h1><p>$BLOG_DESCRIPTION</p><ol>" > "$INDEX_FILE"
 
 sorted_posts=$(printf "%s\n" "${POST_LIST[@]}" | sort -r)
 
@@ -135,7 +135,7 @@ echo "</ol><hr><center>$footer</center>" >> "$INDEX_FILE"
 ###########################################
 # สร้างหน้าแท็ก
 ###########################################
-echo "<html><head><meta charset='utf-8'><title>$BLOG_NAME</title><link rel="stylesheet" href="../css/mystyle.css" type="text/css" /></head><body><h1>$BLOG_NAME</h1><h>แท็กทั้งหมด</h><ul>" > "$TAG_FILE"
+echo "<html><head><meta charset='utf-8'><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"><title>$BLOG_NAME</title><link rel="stylesheet" href="../css/mystyle.css" type="text/css" /></head><body><h1>$BLOG_NAME</h1><h>แท็กทั้งหมด</h><ul>" > "$TAG_FILE"
 
 for tag in "${!TAG_MAP[@]}"; do
     tag_slug=$(echo "$tag" | tr ' ' '_' )
@@ -159,7 +159,7 @@ for tag in "${!TAG_MAP[@]}"; do
     echo "<li><a href='tags_$tag_slug.html'>[$tag]</a></li>" >> "$TAG_FILE"
 
     {
-        echo "<html><head><meta charset='utf-8'><title>Tag: $tag</title><link rel="stylesheet" href="../css/mystyle.css" type="text/css" /></head><body>"
+        echo "<html><head><meta charset='utf-8'><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Tag: $tag</title><link rel="stylesheet" href="../css/mystyle.css" type="text/css" /></head><body>"
         echo "<h1>แท็ก: $tag</h1><ul>"
         IFS=';' read -ra entries <<< "${TAG_MAP[$tag]}"
         for entry in "${entries[@]}"; do

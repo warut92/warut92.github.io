@@ -53,3 +53,7 @@ code {
     height: 200px;
     width: auto;
 }
+
+li {
+    margin: 0%;
+}
