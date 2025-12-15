@@ -27,3 +27,8 @@ img {
 .center {
     align-tracks: center;
 }
+
+.libroj {
+    height: 200px;
+    width: auto;
+}
